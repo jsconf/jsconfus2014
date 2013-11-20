@@ -1,0 +1,47 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700");
+#schedule h4 {
+  line-height: 1.4;
+  margin-top:30px;
+}
+#schedule h3 {
+  margin-top:40px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight: 500;
+line-height: 1.1;
+}
+
+footer {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.curator { width: 46%; float:left; margin:0px 2%;}
+#about .curator img.left { margin-right: 6px; margin-bottom: 6px;}
+
+.curator .headline { font-size: 24px; margin-left: 120px;}
+.curator .social { font-size: 16px; line-height: 21px; height: 21px; margin: 4px 0px 8px 120px;}
+.curator .social a { text-decoration: none}
+.curator p { margin-left: 120px; }
+.curator { margin-bottom: 30px; margin-top: 20px;}
+.left {
+float: left;
+}
+
+h1 { margin-bottom: 1.5em;}
+
+#header { height: 230px;}
+#logo { position: absolute; left:0px; right: 0px; top:0px; text-align: center; z-index:9; height: 230px; line-height: 230px;  }
+
+
+.navbar { border-radius: 0px; font-family: 'Electrolize', sans-serif;}
+
+
+#extra { position: absolute; top: 0px; left: 0px; right: 0px; height: 25px; color: #b3371a; z-index: 12; font-family: 'Electrolize', sans-serif; padding-top: 12px; font-size: 14px; text-align: right;}
+
+#extra a, #extra a:link, #extra a:visited { color: #b3371a; margin-left: 12px; font-size: 20px;}
+.navbar i.fa { margin-right: 6px;}
+
+.well { background: #f3df49;}
