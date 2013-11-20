@@ -45,3 +45,16 @@ h1 { margin-bottom: 1.5em;}
 .navbar i.fa { margin-right: 6px;}
 
 .well { background: #f3df49;}
+
+@media (min-width: 768px) {
+  .navbar-nav>li {
+    float: none;
+  }
+
+  .navbar-nav { text-align: center; float: none; margin: 0 auto}
+  .nav>li {
+    display:inline-block;
+  }
+}
+
+.nav>li>a {padding: 10px;}
