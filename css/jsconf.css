@@ -51,7 +51,7 @@ h1 { margin-bottom: 1.5em;}
     float: none;
   }
 
-  .navbar-nav { text-align: center; float: none; margin: 0 auto}
+  .navbar-nav { text-align: center; float: none; margin: 4px auto 0px;}
   .nav>li {
     display:inline-block;
   }
