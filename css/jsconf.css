@@ -1,0 +1,36 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700");
+body {
+  padding-top: 80px;
+}
+#schedule h4 {
+  line-height: 1.4;
+  margin-top:30px;
+}
+#schedule h3 {
+  margin-top:40px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight: 500;
+line-height: 1.1;
+}
+
+footer {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.curator { width: 46%; float:left; margin:0px 2%;}
+#about .curator img.left { margin-right: 6px; margin-bottom: 6px;}
+
+.curator .headline { font-size: 24px; margin-left: 120px;}
+.curator .social { font-size: 16px; line-height: 21px; height: 21px; margin: 4px 0px 8px 120px;}
+.curator .social a { text-decoration: none}
+.curator p { margin-left: 120px; }
+.curator { margin-bottom: 30px; margin-top: 20px;}
+.left {
+float: left;
+}
+
+h1 { margin-bottom: 1.5em;}
