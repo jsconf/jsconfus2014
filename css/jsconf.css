@@ -42,7 +42,7 @@ h1 { margin-bottom: 1.5em;}
 #extra { position: absolute; top: 0px; left: 0px; right: 0px; height: 25px; color: #b3371a; z-index: 12; font-family: 'Electrolize', sans-serif; padding-top: 12px; font-size: 14px; text-align: right;}
 
 #extra a, #extra a:link, #extra a:visited { color: #b3371a; margin-left: 12px; font-size: 20px;}
-.navbar i.fa { margin-right: 6px;}
+.navbar i.fa { margin-right: 3px;}
 
 .well { background: #f3df49;}
 
