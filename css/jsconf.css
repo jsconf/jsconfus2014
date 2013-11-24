@@ -42,8 +42,9 @@ h1 { margin-bottom: 1.5em;}
 #extra { position: absolute; top: 0px; left: 0px; right: 0px; height: 25px; color: #b3371a; z-index: 12; font-family: 'Electrolize', sans-serif; padding-top: 12px; font-size: 14px; text-align: right;}
 
 #extra a, #extra a:link, #extra a:visited { color: #b3371a; margin-left: 12px; font-size: 20px;}
-.navbar i.fa { margin-right: 6px;}
+.navbar i.fa { margin-right: 3px;}
 
+<<<<<<< HEAD
 .focus-well { background: #f3df49;}
 
 #directory { text-align: center;}
@@ -138,3 +139,22 @@ h1 { margin-bottom: 1.5em;}
     margin-top: 120px;
   }
 }
+
+
+
+
+/*.well { background: #f3df49;}*/
+
+@media (min-width: 768px) {
+  .navbar-nav>li {
+    float: none;
+  }
+
+  .navbar-nav { text-align: center; float: none; margin: 4px auto 0px;}
+  .nav>li {
+    display:inline-block;
+  }
+}
+
+.nav>li>a {padding: 10px;}
+
