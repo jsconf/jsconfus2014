@@ -139,8 +139,11 @@ h1 { margin-bottom: 1.5em;}
     margin-top: 120px;
   }
 }
-=======
-.well { background: #f3df49;}
+
+
+
+
+/*.well { background: #f3df49;}*/
 
 @media (min-width: 768px) {
   .navbar-nav>li {
@@ -154,4 +157,4 @@ h1 { margin-bottom: 1.5em;}
 }
 
 .nav>li>a {padding: 10px;}
->>>>>>> gh-pages
+
