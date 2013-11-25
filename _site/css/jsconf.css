@@ -134,9 +134,10 @@ h1 { margin-bottom: 1.5em;}
 
 }
 
+
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    margin-top: 0px;
   }
 }
 
