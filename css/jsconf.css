@@ -44,7 +44,7 @@ h1 { margin-bottom: 1.5em;}
 #extra a, #extra a:link, #extra a:visited { color: #b3371a; margin-left: 12px; font-size: 20px;}
 .navbar i.fa { margin-right: 3px;}
 
-<<<<<<< HEAD
+
 .focus-well { background: #f3df49;}
 
 #directory { text-align: center;}
@@ -159,3 +159,6 @@ h1 { margin-bottom: 1.5em;}
 
 .nav>li>a {padding: 10px;}
 
+
+
+.well.hover .boom { color: #b5371a;}
