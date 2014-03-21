@@ -1,8 +1,206 @@
 {
   "speakers": [
     {
-      "firstname": "",
-      "lastname": "",
+      "firstname": "G. C.",
+      "lastname": "Marty",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Forrest L.",
+      "lastname": "Norvell",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "James",
+      "lastname": "Long",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "David",
+      "lastname": "Nolen",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "David Nolen is a JavaScript developer for the New York Times. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming."
+    }, {
+      "firstname": "Mark",
+      "lastname": "DiMarco",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Nick",
+      "lastname": "Bray",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Nick is a software engineer working on Chrome at Google. He is currently trying to figure out how to make native code work on the open web.  In his spare time he thinks about compilers, domain-specific languages, and good chocolate."
+    }, {
+      "firstname": "Christoph",
+      "lastname": "Burgmer",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Kawandeep",
+      "lastname": "Virdee",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Kawandeep Virdee is an open web artist, immensely inspired by the sharing and collaboration of the JavaScript community. He uses technology and art to explore ways we can create meaning and joy collectively. At Embedly, he is a product designer and developer advocate. He is co-founder of the public art group New American Public Art, which has installed interactive work around Boston and the US. He is a trustee of the Boston chapter of the Awesome Foundation, advocating for works involving open technology and public joy. Tech art talks and workshops include the Art Institute of Boston, MIT, Betascape, the Newcastle Connected Communities Symposium, and Robotsconf. He blogs at <a href='http://blog.whichlight.com'>blog.whichlight.com</a> and cultivates the tech art scene around Boston through Boston Creative Coders."
+    }, {
+      "firstname": "Guy",
+      "lastname": "Bedford",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Guy is currently working on a number of open source projects relating to module loading and package management in the browser.  He is the author of jspm and SystemJS, and co-authored the ES6 Module Loader polyfill. Based in Cape Town, South Africa, he also enjoys spending time in the US and works as a freelance web developer."
+    }, {
+      "firstname": "Jake",
+      "lastname": "Verbaten",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Raynos is a Javascript Hacker, author of over 250 modules on npm. In his spare time he works on all kind of projects from writing erver-less application ontop of webrtc to implementing FRP in javascript. As a big fan of node.js do one thing well philsophy he's been conquering web development one small module at a time."
+    }, {
+      "firstname": "Nico",
+      "lastname": "Bevacqua",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Nico is an enthusiastic full-stack developer based in Buenos Aires, Argentina, where he spends his days with the love of his life. When he's not hacking as a full stack developer, Nico spends his time writing content for <a href='http://blog.ponyfoo.com/'>Pony Foo</a>; or his upcoming book, named <a href='http://bevacqua.io/bf'>JavaScript Application Design</a>. Nico is a happy pony, and you can find him as <a href='http://twitter.com/nzgb'>@nzgb</a> on Twitter, because xkcd."
+    }, {
+      "firstname": "Ryan",
+      "lastname": "Florence",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "I'm a software engineer from Salt Lake City, Utah and have been creating websites since the early 90's. I like making awesome user experiences and leaving behind maintainable code. I'm active in the JavaScript community writing plugins, contributing to popular JavaScript libraries, speaking at conferences & meet-ups, and writing about it on the web. I work as the JavaScript guy at Instructure. "
+    }, {
+      "firstname": "Kassandra",
+      "lastname": "Perch",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days are spent at RetailMeNot, where she slings javascript and tries to make developer processes easier. her nights and weekends are spent slinging more javascript, teaching for Girl Develop It!, and re-learning how to roller skate. She's an unrepentant JS addict- and is especially interested in JS robotics/hardware."
+    }, {
+      "firstname": "Spike",
+      "lastname": "Brehm",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Spike Brehm is a web engineer at Airbnb. He's currently prototyping the next generation of Airbnb's front end stack, tackling the problem of "isomorphic JavaScript" -- building apps that have the flexibility to run on both the client and server using the same codebase. When not busy maintaining Rendr, Airbnb's library for isomorphic JavaScript apps, Spike spends his time enjoying San Francisco."
+    }, {
+      "firstname": "Marco",
+      "lastname": "Rogers",
+      "smurl": "",
+      "smtype": "Twitter",
+      "smhandle": "@polotek",
+      "title": "",
+      "body": "",
+      "bio": "Marco is an engineer who loves building things for the web. He's been doing server-side javascript since before it was cool (and before it was node). But he spends most of his time in the browser these days as Front-end Engineering Lead at Yammer. You can find him as <a href='twtiter.com/polotek'>@polotek</a> almost everywhere online. He also tweets occasionally."
+    }, {
+      "firstname": "Ryan",
+      "lastname": "Paul",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Brian J.",
+      "lastname": "Brennan",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Bodil",
+      "lastname": "Stokkke",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "David",
+      "lastname": "Calhoun",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Jenn",
+      "lastname": "Turner",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "By day, Jenn works at <a href='http://andyet.com'>&yet</a> as the Chief Jenn Officer, contributing to the departments of marketing, design, editorial, internal affairs, conference organization, awesome, and user experience.<br>By night, she spends her time tweeting sporadically as <a href='http:twitter.com/renrutnnej'>@renrutnnej</a>, starts the beginnings of many, many side projects, conducts mini-experiments with code, and hangs out with her two favorite people in the whole world wide web: Lee and Mila."
+    }, {
+      "firstname": "Travell",
+      "lastname": "Perkins",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": ""
+    }, {
+      "firstname": "Neil",
+      "lastname": "Green",
+      "smurl": "",
+      "smtype": "",
+      "smhandle": "",
+      "title": "",
+      "body": "",
+      "bio": "Neil works as a lead developer at IntercontintalExchange (ICE), a financial and commodities exchange.   He is the UI architect of ICE's social, messaging, and app integration platform, and lead implementer of the platform's core systems.   Neil's true passion lies in coaching engineers on the practical application of software engineering and architectural design principles through coding competitions and extreme code reviews.   He finds it amusing that Java developers are celebrating the arrival of lambdas 15 years after JavaScript had them.  In his spare time, Neil channels his appreciation for caffeine into the daily refactoring of his French pressed coffee making technique."
+    }, {
+      "firstname": "Jenn",
+      "lastname": "Schiffer",
       "smurl": "",
       "smtype": "",
       "smhandle": "",
