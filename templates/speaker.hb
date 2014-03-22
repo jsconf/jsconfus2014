@@ -1,5 +1,5 @@
 {{#speakers}}
-<div class='speaker' id='{{lastname}}'>
+<div class='speaker' id='{{#tolower}}{{lastname}}{{/tolower}}'>
   <div class='name'>{{firstname}} {{lastname}} <a href='{{smurl}}' class='{{smtype}}'>{{smhandle}}</a></div>
   <div class='talk'>
     <div class='title'>{{title}}</div>

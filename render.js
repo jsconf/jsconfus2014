@@ -9,9 +9,14 @@ var Handlebars = require('handlebars'),
     // load Dust template file and optional data JSON file
     tmpl = fs.readFileSync(process.argv[2], 'utf8'),
     data = process.argv.length > 3 ?
-           require(path.resolve(process.argv[3])) : {},
+           require(path.resolve(process.argv[3])) : {};
+
+
+Handlebars.registerHelper('tolower', function(options) {
+    return options.fn(this).toLowerCase();
+});
     // compile template to JavaScript string with ID 'cmdline'
-    compiled = Handlebars.compile(tmpl);
+    var compiled = Handlebars.compile(tmpl);
 
 
 // render template with the context data

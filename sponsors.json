@@ -1,0 +1,60 @@
+{
+  "sponsors": [
+    {
+      "short": "microsoft",
+      "name": "Microsoft",
+      "url": "http://www.microsoft.com",
+      "item": "Tuesday's Be",
+      "description": "<p><a href=\"http://www.bloomberg.com/company\">Bloomberg</a> is the world's most trusted source of information for businesses and professionals. Bloomberg combines innovative technology with unmatched analytic, data, news, display and distribution capabilities, to deliver critical information via the BLOOMBERG PROFESSIONAL&reg; service and multimedia platforms. Bloomberg's media services cover the world with more than 2,200 news and multimedia professionals at 146 bureaus in 72 countries. The BLOOMBERG TELEVISION&reg; 24-hour network delivers smart television to more than 240 million homes. BLOOMBERG RADIO&reg; services broadcast via SIRIUS XM Radio and 1worldspace&trade; satellite radio globally and on WBBR 1130AM in New York. The award-winning monthly BLOOMBERG MARKETS&reg; magazine, Bloomberg BusinessWeek magazine and the BLOOMBERG.COM&reg; financial news and information Web site provide news and insight to businesses and investors.</p>"
+    },
+    {
+      "short": "salesforce",
+      "name": "Salesforce",
+      "url": "http://www.salesforce.com",
+      "item": "Friday's 3..2..1 Blast-off Dinner Theater",
+      "description": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
+    },
+    {
+      "short": "bloomberg",
+      "name": "Bloomberg",
+      "url": "http://www.bloomberg.com/company",
+      "item": "Friday's 3..2..1 Blast-off Dinner Theater",
+      "description": "<p><a href=\"http://www.bloomberg.com/company\">Bloomberg</a> is the world's most trusted source of information for businesses and professionals. Bloomberg combines innovative technology with unmatched analytic, data, news, display and distribution capabilities, to deliver critical information via the BLOOMBERG PROFESSIONAL&reg; service and multimedia platforms. Bloomberg's media services cover the world with more than 2,200 news and multimedia professionals at 146 bureaus in 72 countries. The BLOOMBERG TELEVISION&reg; 24-hour network delivers smart television to more than 240 million homes. BLOOMBERG RADIO&reg; services broadcast via SIRIUS XM Radio and 1worldspace&trade; satellite radio globally and on WBBR 1130AM in New York. The award-winning monthly BLOOMBERG MARKETS&reg; magazine, Bloomberg BusinessWeek magazine and the BLOOMBERG.COM&reg; financial news and information Web site provide news and insight to businesses and investors.</p>"
+    },
+    {
+      "short": "paypal",
+      "name": "PayPal",
+      "url": "",
+      "item": "",
+      "description": "<p></p>"
+    },
+    {
+      "short": "esri",
+      "name": "ESRI",
+      "url": "http://www.esri.com/",
+      "item": "NodeBoats",
+      "description": "<p>Think and plan geographically. As the market leader in geographic information systems (GIS), Esri technology is used in over 350,000 organizations worldwide. Use GIS to collect, manage, and analyze geographic information, helping you solve problems and make better decisions.</p>"
+    },
+    {
+      "short": "facebook",
+      "name": "Facebook",
+      "url": "",
+      "item": "NodeBots",
+      "description": "<p></p>"
+    },
+    {
+      "short": "exacttarget",
+      "name": "Exact Target",
+      "url": "",
+      "item": "Track B",
+      "description": "<p></p>"
+    },
+    {
+      "short": "atlassian",
+      "name": "Atlassian",
+      "url": "",
+      "item": "NodeRockets",
+      "description": "<p></p>"
+    }
+  ]
+}
