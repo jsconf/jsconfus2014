@@ -1,0 +1,290 @@
+- name: Bloomberg
+  short: bloomberg
+  logo:
+  url: http://www.bloomberg.com/company
+  event: Closing Party
+  description: >
+    [Bloomberg](http://www.bloomberg.com/company) is the world's most trusted
+    source of information for businesses and professionals. Bloomberg combines
+    innovative technology with unmatched analytic, data, news, display and
+    distribution capabilities, to deliver critical information via the
+    BLOOMBERG PROFESSIONAL&reg; service and multimedia platforms. Bloomberg's
+    media services cover the world with more than 2,200 news and multimedia
+    professionals at 146 bureaus in 72 countries. The BLOOMBERG TELEVISION&reg;
+    24-hour network delivers smart television to more than 240 million homes.
+    BLOOMBERG RADIO&reg; services broadcast via SIRIUS XM Radio and
+    1worldspace&trade; satellite radio globally and on WBBR 1130AM in New York.
+    The award-winning monthly BLOOMBERG MARKETS&reg; magazine, Bloomberg
+    BusinessWeek magazine and the BLOOMBERG.COM&reg; financial news and
+    information Web site provide news and insight to businesses and investors.
+
+- name: Salesforce
+  short: salesforce
+  logo: salesforce.png
+  url: http://www.salesforce.com
+  event: Walker's Landing Party
+  description: >
+    [Salesforce.com](http://www.salesforce.com) is the enterprise cloud
+    computing leader. Our social and mobile cloud technologies—including our
+    flagship sales and CRM applications—help companies connect with customers,
+    partners, and employees in entirely new ways.
+
+- name: Microsoft
+  short: microsoft
+  logo:
+  url: http://www.microsoft.com
+  event: Opening Party
+  description: >
+
+- name: PayPal
+  short: paypal
+  logo:
+  url: http://www.paypal.com
+  event: Segway Tours
+  description: >
+
+- name: Esri
+  short: esri
+  logo:
+  url: http://www.esri.com
+  event: NodeBoats
+  description: >
+    Think and plan geographically. As the market leader in geographic
+    information systems (GIS), Esri technology is used in over 350,000
+    organizations worldwide. Use GIS to collect, manage, and analyze geographic
+    information, helping you solve problems and make better decisions.
+
+- name: Facebook
+  short: facebook
+  logo:
+  url: http://www.facebook.com
+  event: NodeBots
+  description: >
+    Facebook is the world's largest social network with over 900 million active
+    users. Founded in 2004, Facebook’s mission is to make the world more open
+    and connected. As an employer, Facebook strives to hire the best people who
+    want to move fast and make an impact. The company empowers people in every
+    way it can to allow our employees to focus on what they love to do. People
+    around the world use Facebook everyday to stay connected with friends and
+    family, to discover what’s going on, and to share and express what matters
+    to them.
+
+- name: Exact Target
+  short: exacttarget
+  logo:
+  url: http://www.exacttarget.com
+  event: Track B
+  description: >
+
+- name: The Node Firm
+  short: nodefirm
+  logo:
+  url: http://www.thenodefirm.com
+  event: Golf
+  description: >
+
+- name: Atlassian
+  short: atlassian
+  logo:
+  url: http://www.atlassian.com
+  event: NodeRockets
+  description: >
+    Atlassian products help innovators everywhere plan, build and launch great
+    software. More than 24,000 large and small organizations – including
+    Citigroup, eBay, Netflix and Nike – use Atlassian’s agile project
+    management, collaboration and software-development products to work smarter
+    and deliver quality results on time.
+
+- name: Yammer
+  short: yammer
+  logo:
+  url: https://www.yammer.com
+  event: NodeRockets
+  description: >
+    [Yammer](http://www.yammer.com) is a secure, private social network for
+    your company. Yammer empowers employees to be more productive and successful
+    by enabling them to collaborate easily, make smarter decisions faster, and
+    self-organize into teams to take on any business challenge. It is a new way
+    of working that naturally drives business alignment and agility, reduces
+    cycle times, engages employees and improves relationships with customers
+    and partners.
+
+- name: Olark
+  short: olark
+  logo:
+  url: http://www.olark.com
+  event: Significant Others Track
+  description: >
+    Live chat is the only way to talk to customers while they are still on your
+    website. Every day tons of potential customers come your way. But who are
+    they? Do they understand what's on your site? What are they looking for?
+
+
+    Find out with [Olark](http://www.olark.com) &mdash; in 5 minutes you can
+    see exactly who's visiting your site and start chatting with them. Ever
+    wanted to just get some quick feedback? Olark makes it happen.
+
+
+    We love talking shop about Backbone, node, realtime systems, and lighting
+    our 100ft tall redwood tree.  Come and grab a drink with us!
+
+- name: Novus
+  short: novus
+  logo:
+  url: http://www.novus.com
+  event: Beach Entertainment
+  description: >
+
+- name: Condé Nast
+  short: condenast
+  logo:
+  url: http://www.condenast.com
+  event: Blast Off Arcade
+  description: >
+    [Condé Nast](https://www.condenast.com) is home to some of the world's most
+    celebrated media brands. In the United States, Condé Nast publishes 18
+    consumer magazines, four business-to-business publications, 27 websites,
+    and more than 50 apps for mobile and tablet devices, all of which define
+    excellence in their categories. The company also owns Fairchild Fashion
+    Media (FFM), whose portfolio of brands serves as the leading source of news
+    and analysis for the global fashion community. Condé Nast has won more
+    National Magazine Awards over the past ten years than all of its competitors
+    combined.
+
+
+    Visit CondéNast.com and follow us on Twitter [@CondeNastCorp](http://twitter.com/@CondeNastCorp) and
+    [@CondeNastCareer](http://www.twitter.com/CondeNastCareer)
+
+- name: Heroku
+  short: heroku
+  logo:
+  url: http://www.heroku.com
+  event: Bike Rentals
+  description: >
+
+- name: Sauce Labs
+  short: saucelabs
+  logo:
+  url: http://www.saucelabs.com
+  event: Pool Entertainment
+  description: >
+
+- name: Pebble
+  short: pebble
+  logo:
+  url: http://www.getpebble.com
+  event: Scavenger Hunt
+  description: >
+
+- name: Cox Media Group
+  short: cox
+  logo:
+  url: http://www.cox.com
+  event: Campfires
+  description: >
+
+- name: Adobe
+  short: adobe
+  logo:
+  url: http://www.adobe.com
+  event: Conference Internet and Wi-Fi
+  description: >
+    Adobe makes tools that enable web designers and developers to share their
+    creativity with the world and believes the web platform will deliver all
+    the rich experiences that authors want and need. We're helping to make this
+    vision a reality through our contributions of creative features such as
+    advanced layout and cinematic effects to web standards and HTML rendering
+    engines.
+
+
+    Try our new [Adobe Edge Tools &amp; Services](http://html.adobe.com/edge/?promoid=KCLRW)
+    to design, animate, code, package, and deliver mobile-ready content and
+    apps individually, together, or with other tools.
+
+
+    Get started with Edge Tools &amp; Services with a free Creative Cloud
+    Membership: [http://html.adobe.com/edge/?promoid=KCLRW](http://html.adobe.com/edge/?promoid=KCLRW)
+
+- name: Twilio
+  short: twilio
+  logo:
+  url: http://www.twilio.com
+  event: NodeCopter
+  description: >
+    [Twilio](http://www.twilio.com) is powering the future of business
+    communications software by enabling voice, VoIP, and messaging to be easily
+    embedded into applications whether existing or built new on Twilio.
+
+- name: Meteor
+  short: meteor
+  logo:
+  url: http://www.meteor.com
+  event: Airport Transport
+  description: >
+
+- name: Mozilla
+  short: mozilla
+  logo:
+  url: http://www.mozilla.com
+  event:
+  description: >
+    The [Mozilla Corporation](http://www.mozilla.com) is a global community
+    dedicated to building free, open source products and technologies that
+    improve the online experience for people everywhere. We work in the open
+    with a highly disciplined, transparent and cooperative development process,
+    under the umbrella of the non-profit Mozilla Foundation. As a wholly owned
+    subsidiary, the Mozilla Corporation organizes the development and marketing
+    of Mozilla products. This unique structure has enabled Mozilla to
+    financially support and cultivate competitive, viable community innovation.
+
+
+    For more information, visit [www.mozilla.com](http://www.mozilla.com)
+
+- name: Shopify
+  short: shopify
+  logo:
+  url: http://www.shopify.com
+  event:
+  description: >
+
+- name: NPM, Inc.
+  short: npm
+  logo:
+  url: http://www.npmjs.com
+  event: Coffee and Espresso Service
+  description: >
+
+- name: SmartFace
+  short: smartface
+  logo:
+  url: http://www.smartface.io
+  event:
+  description: >
+
+- name: Sentry
+  short: sentry
+  logo:
+  url: http://www.getsentry.com
+  event:
+  description: >
+
+- name: BitHound
+  short: bithound
+  logo:
+  url: http://www.bithound.io
+  event:
+  description: >
+
+- name: MongoDB
+  short: mongodb
+  logo:
+  url: http://www.mongodb.com
+  event:
+  description: >
+
+- name: Willow Tree Apps
+  short: willowtree
+  logo:
+  url: http://www.willowtreeapps.com
+  event:
+  description: >
