@@ -45,7 +45,7 @@
 
 - name: Esri
   short: esri
-  logo:
+  logo: esri.png
   url: http://www.esri.com
   event: NodeBoats
   description: >
