@@ -97,7 +97,7 @@
 
 - name: Yammer
   short: yammer
-  logo:
+  logo: yammer.png
   url: https://www.yammer.com
   event: NodeRockets
   description: >
