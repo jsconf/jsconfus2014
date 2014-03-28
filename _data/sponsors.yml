@@ -185,7 +185,7 @@
 
 - name: Adobe
   short: adobe
-  logo:
+  logo: adobe.png
   url: http://www.adobe.com
   event: Conference Internet and Wi-Fi
   description: >
