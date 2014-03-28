@@ -60,14 +60,17 @@
   url: http://www.facebook.com
   event: NodeBots
   description: >
-    Facebook is the world's largest social network with over 900 million active
-    users. Founded in 2004, Facebook’s mission is to make the world more open
-    and connected. As an employer, Facebook strives to hire the best people who
-    want to move fast and make an impact. The company empowers people in every
-    way it can to allow our employees to focus on what they love to do. People
-    around the world use Facebook everyday to stay connected with friends and
-    family, to discover what’s going on, and to share and express what matters
-    to them.
+    Founded in 2004, Facebook’s mission is to make the world more open and
+    connected. People use Facebook to stay connected with friends and family,
+    to discover what’s going on in the world, and to share and express what
+    matters to them.
+
+
+    Connecting everyone, understanding the world, and building the knowledge
+    economy are huge technical challenges. Engineers at Facebook move fast and
+    push code everyday to build infrastructure and products that provide global,
+    real-time, and interconnected services for the 1.2 billion people who visit
+    Facebook every month.
 
 - name: Exact Target
   short: exacttarget
