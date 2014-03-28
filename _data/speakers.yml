@@ -224,12 +224,15 @@
 
 - firstname: David
   lastname: Calhoun
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/franksvalli
+  smtype: twitter
+  smhandle: @franksvalli
   title:
   body: >
   bio: >
+    David Calhoun is a UI engineer working at Skybox Imaging in Mountain View, using open web technology to build interfaces for satellite imagery and video processing, a satellite imagery scheduling interface, and a websocket-powered telemetry dashboard.  Prior to that he's worked on the Node.js-backed CNET mobile website, as well as Yahoo! Mobile.  He also occasionally contracts for WebMocha.
+    Most recently he's lived in Kyoto, Japan for a year, which was an amazing and humbling experience.
+    He tweets at @franksvalli and writes longer stuff at ([davidbcalhoun.com](http://davidbcalhoun.com)), and was even once lucky enough to be published in Web Performance Daybook Volume 2.
 
 - firstname: Jenn
   lastname: Turner
