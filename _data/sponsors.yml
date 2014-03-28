@@ -1,6 +1,6 @@
 - name: Bloomberg
   short: bloomberg
-  logo:
+  logo: bloomberg.png
   url: http://www.bloomberg.com/company
   event: Closing Party
   description: >
