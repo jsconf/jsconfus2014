@@ -1,35 +1,55 @@
-- firstname: G. C.
+- firstname: Guillaume
   lastname: Marty
-  smurl:
+  smurl: 
   smtype:
   smhandle:
-  title:
+  title: Play DVDs in JavaScript for the sake of interoperability
   body: >
+    We have everything we need to read DVD-video discs in a browser, so why 
+    don’t we start?
+
+    For that purpose, I ported libdvdread and libdvdnav libraries to 
+    JavaScript so that we can parse the DVD-video info files and emulate 
+    a virtual machine.
+
+    But this comes with technical challenges such as browsers being bad 
+    at manipulating huge files or not supporting the codecs used in DVD 
+    (MPEG-2, AC-3...). That’s why this port comes with a server in Node.js 
+    to circumvent these limitations.
+
+    The resulting project is a mix of websockets, video elements, media 
+    source extensions and a lot of open source love.
+
+    Get ready for a mind blowing demo!  
   bio: >
+    Guillaume is passionate about web technologies and loves hacking and 
+    building crazy things on top of open technologies. He's also 
+    fascinated by video games, animation, and, as a Japanese speaker, 
+    foreign languages.
 
 - firstname: Forrest L.
   lastname: Norvell
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/othiym23
+  smtype: twitter
+  smhandle: "@othiym23"
+  title: TBD - which talk did we pick?
   body: >
   bio: >
 
 - firstname: James
   lastname: Long
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/jlongster
+  smtype: twitter
+  smhandle:"@jlongster"
+  title: TBD - which talk did we pick?
   body: >
   bio: >
 
 - firstname: David
   lastname: Nolen
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/swannodette
+  smtype: twitter
+  smhandle: "@swannodette"
   title:
   body: >
   bio: >
@@ -39,12 +59,24 @@
 
 - firstname: Mark
   lastname: DiMarco
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://github.com/markmarkoh
+  smtype:  github
+  smhandle: "markmarkoh"
   title:
   body: >
+    TBD
+    Algorithms in User Interfaces. We would dig into some non-trivial computer science 
+    algorithms and how they can be applied to creating a better user interface. From 
+    determining the speed and direction of the mouse to [better handle dropdown menus](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) 
+    to using a Voronoi tessellations to create [a variable sized hit state in data visualizations](https://github.com/mbostock/d3/wiki/Voronoi-Geom).
+
+    I'd show examples in the wild and break the algorithms down from mathematical 
+    notation all the way to Javascript implementation. Should be especially 
+    interesting given many people in our field lack CS degrees.
   bio: >
+    [Mark DiMarco](http://work.markmarkoh.com/) is a Senior UI Engineer at Bazaarvoice in Austin, TX. He spends 
+    his free time working on [DataMaps](http://datamaps.github.io/), attempting to master the art of brewing coffee, 
+    and [taking photos](http://500px.com/markmarkoh) with his favorite piece of technology (a Nikon D600). 
 
 - firstname: Nick
   lastname: Bray
@@ -61,20 +93,25 @@
 
 - firstname: Christoph
   lastname: Burgmer
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://github.com/cburgmer
+  smtype: github
+  smhandle: cburgmer
+  title: Hacking a HTML renderer in plain browser-side JS
   body: >
+    TBD
   bio: >
+    I love building things around software. Much of it in JavaScript for the web. 
+    You'll find me hacking on Open Source while either contributing here, or 
+    starting new stuff there. Apart from that, I love languages.
 
 - firstname: Kawandeep
   lastname: Virdee
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/whichlight
+  smtype: twitter
+  smhandle: "@whichlight"
+  title: Collaborative Real-time Interactive Art with WebRTC
   body: >
+    TBD
   bio: >
     Kawandeep Virdee is an open web artist, immensely inspired by the sharing
     and collaboration of the JavaScript community. He uses technology and art
@@ -94,8 +131,21 @@
   smurl:
   smtype:
   smhandle:
-  title:
+  title: Package Management for ES6 Modules
   body: >
+    How does the transition into ES6 modules work for browsers exactly? How do 
+    we enable modular version-managed front-end architecture in the process?
+
+    [jspm](https://jspm.io) provides almost-magical™ package management for JavaScript 
+    built around the principles of version-managed ES6-modules and the dynamic ES6 module 
+    loader from the core.
+
+    In short, jspm starts off by making ES6 modules work dynamically in browsers today 
+    through the dynamic ES6 Module Loader polyfilll, then we make all existing module 
+    formats work through this same loader, then then we add offline build workflows 
+    for production and a command-line package manager to allow modular dependency management. 
+    Finally turn the whole thing around and add a CDN with server-push, and you have 
+    install-free version-managed module loading in the browser.  
   bio: >
     Guy is currently working on a number of open source projects relating to
     module loading and package management in the browser.  He is the author of
@@ -105,9 +155,9 @@
 
 - firstname: Jake
   lastname: Verbaten
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/Raynos
+  smtype: twitter
+  smhandle: "@Raynos"
   title:
   body: >
   bio: >
@@ -119,9 +169,9 @@
 
 - firstname: Nico
   lastname: Bevacqua
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/nzgb
+  smtype: twitter
+  smhandle: "@nzgb"
   title:
   body: >
   bio: >
@@ -135,9 +185,9 @@
 
 - firstname: Ryan
   lastname: Florence
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.comryanflorence
+  smtype: twitter
+  smhandle: "@ryanflorence"
   title:
   body: >
   bio: >
@@ -150,11 +200,26 @@
 
 - firstname: Kassandra
   lastname: Perch
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/kassandra_perch
+  smtype: twitter
+  smhandle: @kassandra_perch
+  title: Modular Application Architectures in Javascript
   body: >
+    Web applications do not require an over-arching framework to be organized 
+    and maintainable. In fact, an application with modules from all over the 
+    place can in fact be maintainable, understandable, and encouraged. Instead 
+    of subscribing to one framework that provides developers with an entire 
+    slew of unused or unneeded functionality, an architecture can be built 
+    from the ground up using small modules from a variety of different sources. 
+    This kind of architecture is taking off in the Node community, and is 
+    starting to make its way in client-side javascript. This talk explores 
+    the differences between using a formal framework- like Ember, Backbone, 
+    Express, or Sails- and using a modular approach. Frameworks are not 
+    entirely out of the picture- there are a few examples of frameworks that 
+    encourage this kind of architecture by providing minimal structure in 
+    the right places. This talk will explore those frameworks, and the 
+    general ideas, benefits, and possible pitfalls of a modular architecture, 
+    from both the client and server-side perspective.    
   bio: >
     Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days
     are spent at RetailMeNot, where she slings javascript and tries to make
@@ -165,11 +230,12 @@
 
 - firstname: Spike
   lastname: Brehm
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/spikebrehm
+  smtype: twitter
+  smhandle: "@spikebrehm"
+  title: Building Isomorphic Apps
   body: >
+    TBD - Too damned long
   bio: >
     Spike Brehm is a web engineer at Airbnb. He's currently prototyping the
     next generation of Airbnb's front end stack, tackling the problem of
@@ -180,11 +246,12 @@
 
 - firstname: Marco
   lastname: Rogers
-  smurl:
-  smtype: Twitter
+  smurl: http://twitter.compolotek
+  smtype: twitter
   smhandle: "@polotek"
-  title:
+  title: TBD
   body: >
+    TBD - Nothing usable
   bio: >
     Marco is an engineer who loves building things for the web. He's been doing
     server-side javascript since before it was cool (and before it was node).
@@ -195,12 +262,18 @@
 
 - firstname: Ryan
   lastname: Paul
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/segphault
+  smtype: twitter
+  smhandle: "@segphault"
+  title: TBD - MontageJS, a component-oriented, CommonJS/npm based MVC framework.
   body: >
+    TBD
   bio: >
+    Ryan Paul is head of Developer Relations at Montage Studio, a startup dedicated 
+    to helping developers build large frontend Web applications with reusable 
+    components. He is a Linux enthusiast and open source software developer.  
+    Ryan also writes articles about software development for Ars Technica, a popular 
+    technology news site.
 
 - firstname: Brian J.
   lastname: Brennan
@@ -213,12 +286,14 @@
 
 - firstname: Bodil
   lastname: Stokkke
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: http://twitter.com/bodil
+  smtype: twitter
+  smhandle: "@bodil"
+  title: TBD
   body: >
+    TBD
   bio: >
+    TBD
 
 - firstname: David
   lastname: Calhoun
@@ -231,9 +306,9 @@
 
 - firstname: Jenn
   lastname: Turner
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/renrutnnej
+  smtype: twitter
+  smhandle: @renrutnnej
   title:
   body: >
   bio: >
