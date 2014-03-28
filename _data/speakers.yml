@@ -15,6 +15,7 @@
   title:
   body: >
   bio: >
+    Forrest has been a web developer since 1994, a semi-enthusiastic JavaScript user since 1997, a more enthusiastic AJAX developer since 2007, and a full-time Node.js developer since 2011. He built New Relic's instrumentation for Node.js, which required him to learn all of the JavaScript and then use it to do horrible, yet effective, things to write a performance monitor for Node in 100% pure JavaScript.
 
 - firstname: James
   lastname: Long
@@ -212,13 +213,14 @@
   bio: >
 
 - firstname: Bodil
-  lastname: Stokkke
+  lastname: Stokke
   smurl:
   smtype:
   smhandle:
   title:
   body: >
   bio: >
+    Bodil is a compulsive conference speaker in the fields of functional programming and internets technologies, and is a co-organiser of multiple developer conferences in Scandinavia and the UK, mostly because she’s still learning how to stop. She is a prolific contributor to the Free Software community, and has recently taken up designing new programming languages as a hobby. In her spare time, she works as a developer for Future Ad Labs, a London based startup that wants to make advertising a productive member of society. Her favourite pony is Pinkie Pie.
 
 - firstname: David
   lastname: Calhoun
@@ -240,8 +242,6 @@
     By day, Jenn works at [&yet](http://andyet.com) as the Chief Jenn Officer,
     contributing to the departments of marketing, design, editorial, internal
     affairs, conference organization, awesome, and user experience.
-
-
     By night, she spends her time tweeting sporadically as
     [@renrutnnej](http://twitter.com/renrutnnej), starts the beginnings of many,
     many side projects, conducts mini-experiments with code, and hangs out with
@@ -255,6 +255,8 @@
   title:
   body: >
   bio: >
+    Travell is a classically trained computer scientist; he tries to go beyond just getting things working. He has skills and passion in the areas of financial services, consumer internet, digital media, cloud computing, sustainability, and everything startups.
+    Travell is currently the CTO of Fidsafe, an online safe deposit box offered by Fidelity. Travell has been hacking since he was in the 6th grade.  He holds degrees in computer science and business from MIT and BU respectively.
 
 - firstname: Neil
   lastname: Green

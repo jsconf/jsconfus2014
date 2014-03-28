@@ -7,7 +7,9 @@ id: speakers
 <h2>{{site.name}} Speakers</h2>
 
 {% for speaker in site.data.speakers %}
-<div class='speaker' id='{{speaker.lastname | downcase}}'>
+<div class='col-md-6'>
+<div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
+  <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.jpg' alt='{{speaker.firstname}} {{speaker.lastname}}'/></div>
   <div class='name'>
     <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
     {% if speaker.smhandle %}
@@ -22,6 +24,7 @@ id: speakers
     <div class='title'>Meet {{speaker.firstname}}</div>
     {{speaker.bio | markdownify}}
   </div>
+</div>
 </div>
 {% endfor %}
 
