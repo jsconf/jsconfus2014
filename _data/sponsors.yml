@@ -31,7 +31,7 @@
 
 - name: Microsoft
   short: microsoft
-  logo:
+  logo: microsoft.png
   url: http://www.microsoft.com
   event: Opening Party
   description: >
