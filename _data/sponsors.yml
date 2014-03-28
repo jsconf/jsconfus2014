@@ -74,10 +74,18 @@
 
 - name: Exact Target
   short: exacttarget
-  logo:
+  logo: exacttarget.png
   url: http://www.exacttarget.com
   event: Track B
   description: >
+    ExactTarget builds tools that empower organizations of all sizes to
+    communicate with their customers through email, mobile, social media, web,
+    and marketing automation. In addition, our open-source UI library and rich
+    set of APIs enable everyone to build on our extensive platform.
+
+
+    The ExactTarget Marketing Cloud is a [salesforce.com](http://www.salesforce.com)
+    company, for more information visit [exacttarget.com](http://www.exacttarget.com)
 
 - name: The Node Firm
   short: nodefirm
