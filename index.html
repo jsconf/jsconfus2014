@@ -72,4 +72,18 @@ id: index
     </div>
   </div>
   <hr class="featurette-divider">
+
+  <div class="row featurette" id='sponsor-fp'>
+    <div class="col-md-12">
+      <h2 class="featurette-heading">With Huge Thanks To:</h2>
+      <div class='clearfix'>
+          {% for sponsor in site.data.sponsors %}
+            {%if sponsor.visible %}
+            <a href='{{sponsor.url}}'><img src='/img/sponsors/{{sponsor.logo}}' alt='{{sponsor.name}}'/></a>
+
+            {% endif %}
+          {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>
