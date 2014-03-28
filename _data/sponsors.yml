@@ -224,7 +224,7 @@
 
 - name: Mozilla
   short: mozilla
-  logo:
+  logo: mozilla.png
   url: http://www.mozilla.com
   event:
   description: >
