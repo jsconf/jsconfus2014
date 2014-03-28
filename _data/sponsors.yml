@@ -1,4 +1,5 @@
 - name: Bloomberg
+  visible: true
   short: bloomberg
   logo: bloomberg.png
   url: http://www.bloomberg.com/company
@@ -19,6 +20,7 @@
     information Web site provide news and insight to businesses and investors.
 
 - name: Salesforce
+  visible: true
   short: salesforce
   logo: salesforce.png
   url: http://www.salesforce.com
@@ -30,6 +32,7 @@
     partners, and employees in entirely new ways.
 
 - name: Microsoft
+  visible: false
   short: microsoft
   logo: microsoft.png
   url: http://www.microsoft.com
@@ -37,6 +40,7 @@
   description: >
 
 - name: PayPal
+  visible: false
   short: paypal
   logo:
   url: http://www.paypal.com
@@ -44,6 +48,7 @@
   description: >
 
 - name: Esri
+  visible: true
   short: esri
   logo: esri.png
   url: http://www.esri.com
@@ -55,6 +60,7 @@
     information, helping you solve problems and make better decisions.
 
 - name: Facebook
+  visible: true
   short: facebook
   logo: facebook.png
   url: http://www.facebook.com
@@ -73,6 +79,7 @@
     Facebook every month.
 
 - name: Exact Target
+  visible: true
   short: exacttarget
   logo: exacttarget.png
   url: http://www.exacttarget.com
@@ -88,13 +95,15 @@
     company, for more information visit [exacttarget.com](http://www.exacttarget.com)
 
 - name: NodeSource
+  visible: false
   short: nodesource
   logo:
   url: http://www.nodesource.com
-  event: Golf
+  event: Golf Tournament
   description: >
 
 - name: Atlassian
+  visible: false
   short: atlassian
   logo:
   url: http://www.atlassian.com
@@ -107,6 +116,7 @@
     and deliver quality results on time.
 
 - name: Yammer
+  visible: true
   short: yammer
   logo: yammer.png
   url: https://www.yammer.com
@@ -121,6 +131,7 @@
     and partners.
 
 - name: Olark
+  visible: true
   short: olark
   logo: olark.png
   url: http://www.olark.com
@@ -140,6 +151,7 @@
     our 100ft tall redwood tree.  Come and grab a drink with us!
 
 - name: Novus
+  visible: false
   short: novus
   logo:
   url: http://www.novus.com
@@ -147,6 +159,7 @@
   description: >
 
 - name: Condé Nast
+  visible: true
   short: condenast
   logo: condenast.png
   url: http://www.condenast.com
@@ -167,6 +180,7 @@
     [@CondeNastCareer](http://www.twitter.com/CondeNastCareer)
 
 - name: Heroku
+  visible: false
   short: heroku
   logo:
   url: http://www.heroku.com
@@ -174,6 +188,7 @@
   description: >
 
 - name: Sauce Labs
+  visible: false
   short: saucelabs
   logo:
   url: http://www.saucelabs.com
@@ -181,6 +196,7 @@
   description: >
 
 - name: Pebble
+  visible: false
   short: pebble
   logo:
   url: http://www.getpebble.com
@@ -188,6 +204,7 @@
   description: >
 
 - name: Cox Media Group
+  visible: false
   short: cox
   logo:
   url: http://www.cox.com
@@ -195,6 +212,7 @@
   description: >
 
 - name: Adobe
+  visible: true
   short: adobe
   logo: adobe.png
   url: http://www.adobe.com
@@ -217,6 +235,7 @@
     Membership: [http://html.adobe.com/edge/?promoid=KCLRW](http://html.adobe.com/edge/?promoid=KCLRW)
 
 - name: Twilio
+  visible: true
   short: twilio
   logo: twilio.png
   url: http://www.twilio.com
@@ -227,6 +246,7 @@
     embedded into applications whether existing or built new on Twilio.
 
 - name: Meteor
+  visible: false
   short: meteor
   logo:
   url: http://www.meteor.com
@@ -234,6 +254,7 @@
   description: >
 
 - name: Mozilla
+  visible: true
   short: mozilla
   logo: mozilla.png
   url: http://www.mozilla.com
@@ -252,6 +273,7 @@
     For more information, visit [www.mozilla.com](http://www.mozilla.com)
 
 - name: Shopify
+  visible: false
   short: shopify
   logo:
   url: http://www.shopify.com
@@ -259,6 +281,7 @@
   description: >
 
 - name: NPM, Inc.
+  visible: false
   short: npm
   logo:
   url: http://www.npmjs.com
@@ -266,6 +289,7 @@
   description: >
 
 - name: SmartFace
+  visible: false
   short: smartface
   logo:
   url: http://www.smartface.io
@@ -273,6 +297,7 @@
   description: >
 
 - name: Sentry
+  visible: false
   short: sentry
   logo:
   url: http://www.getsentry.com
@@ -280,6 +305,7 @@
   description: >
 
 - name: BitHound
+  visible: false
   short: bithound
   logo:
   url: http://www.bithound.io
@@ -287,6 +313,7 @@
   description: >
 
 - name: MongoDB
+  visible: false
   short: mongodb
   logo:
   url: http://www.mongodb.com
@@ -294,6 +321,7 @@
   description: >
 
 - name: Willow Tree Apps
+  visible: false
   short: willowtree
   logo:
   url: http://www.willowtreeapps.com

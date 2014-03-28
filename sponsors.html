@@ -7,25 +7,14 @@ id: sponsors
 <div class='container'>
 <h2>{{site.name}} Sponsors</h2>
 
-<div class='well'>
+
+<div class='well' style='text-align:center;'>
   <b>Interested in sponsoring?</b> <a href="https://docs.google.com/forms/d/1eyodyWx25GARoBX6XXWG_-Sg-CieeWIkx-nuSSKXQxQ/viewform">Sign up here to receive details on the sponsorship opportunities!</a>
 </div>
 
-<p>
-  At JSConf US 2014, the best JS programmers will gather at Amelia Island, FL
-  for a two track, three day conference that will showcase the future of JS and
-  we want you there as a sponsor! Our sponsorships are a little bit different,
-  there are no booths, no exhibit halls, and we encourage you to send your best
-  technical talent. We focus the sponsorships on creating amazing shared
-  experiences which have a far broader and longer lasting effects for you and
-  the attendees. Whether your goal is brand exposure, recruiting, product
-  launch, or something else, we have a sponsorship opportunity for you.
-</p>
-
-<img src="/img/sponsor.jpg" alt="the audience" class="img-responsive"/>
-
 <article class="sponsors">
 {% for sponsor in site.data.sponsors %}
+  {%if sponsor.visible %}
   <div class='sponsor' id='{{sponsor.short}}'>
     <div class='name'>
       <a href='{{sponsor.url}}'>
@@ -43,5 +32,10 @@ id: sponsors
       {{sponsor.description | markdownify}}
     </div>
   </div>
+  {% endif %}
 {% endfor %}
 </article>
+
+<div class='well' style='text-align:center;'>
+  <b>Interested in sponsoring?</b> <a href="https://docs.google.com/forms/d/1eyodyWx25GARoBX6XXWG_-Sg-CieeWIkx-nuSSKXQxQ/viewform">Sign up here to receive details on the sponsorship opportunities!</a>
+</div>
