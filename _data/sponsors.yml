@@ -56,7 +56,7 @@
 
 - name: Facebook
   short: facebook
-  logo:
+  logo: facebook.png
   url: http://www.facebook.com
   event: NodeBots
   description: >
