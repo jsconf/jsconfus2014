@@ -207,7 +207,7 @@
 
 - name: Twilio
   short: twilio
-  logo:
+  logo: twilio.png
   url: http://www.twilio.com
   event: NodeCopter
   description: >
