@@ -80,10 +80,10 @@
 
 - firstname: Nick
   lastname: Bray
-  smurl:
-  smtype:
+  smurl: https://plus.google.com/u/0/112308070441027147599/posts
+  smtype: google+
   smhandle:
-  title:
+  title: pepper.js
   body: >
   bio: >
     Nick is a software engineer working on Chrome at Google. He is currently
@@ -128,9 +128,9 @@
 
 - firstname: Guy
   lastname: Bedford
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/guybedford
+  smtype: twitter
+  smhandle: "@guybedford"
   title: Package Management for ES6 Modules
   body: >
     How does the transition into ES6 modules work for browsers exactly? How do 
@@ -158,8 +158,17 @@
   smurl: http://twitter.com/Raynos
   smtype: twitter
   smhandle: "@Raynos"
-  title:
+  title: NPM-style Frontend
   body: >
+    This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
+
+    The NPM-style frontend prefers modularity and simple abstractions that do one thing well.  THis talk includes:
+    - Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
+    - How to compose various modules together to build your own "framework" with your own trade offs.
+    - How to compose an application from smaller applications
+    - Build small UI components with thin interfaces that you glue together in your application. 
+
+    Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.  
   bio: >
     Raynos is a Javascript Hacker, author of over 250 modules on npm. In his
     spare time he works on all kind of projects from writing erver-less
@@ -277,12 +286,15 @@
 
 - firstname: Brian J.
   lastname: Brennan
-  smurl:
-  smtype:
-  smhandle:
+  smurl: http://twitter.com/brianloveswords
+  smtype: twitter
+  smhandle: "@brianloveswords"
   title:
   body: >
   bio: >
+    Brian is a bassist, an event organizer of BrooklynJS, a mentor of NodeSchool, 
+    and a cat owner. When he's not being one of those other things, he's a software 
+    architect at Mozilla working on the OpenBadges project
 
 - firstname: Bodil
   lastname: Stokkke
@@ -293,7 +305,13 @@
   body: >
     TBD
   bio: >
-    TBD
+    Bodil is a compulsive conference speaker in the fields of functional programming 
+    and internets technologies, and is a co-organiser of multiple developer conferences 
+    in Scandinavia and the UK, mostly because she’s still learning how to stop. She is a 
+    prolific contributor to the Free Software community, and has recently taken up 
+    designing new programming languages as a hobby. In her spare time, she works as a 
+    developer for Future Ad Labs, a London based startup that wants to make advertising 
+    a productive member of society. Her favourite pony is Pinkie Pie.
 
 - firstname: David
   lastname: Calhoun
@@ -303,6 +321,13 @@
   title:
   body: >
   bio: >
+    David Calhoun is a UI engineer working at Skybox Imaging in Mountain View, using open web 
+    technology to build interfaces for satellite imagery and video processing, a satellite 
+    imagery scheduling interface, and a websocket-powered telemetry dashboard.  Prior to that 
+    he's worked on the Node.js-backed CNET mobile website, as well as Yahoo! Mobile.  He also 
+    occasionally contracts for WebMocha.
+
+    Most recently he's lived in Kyoto, Japan for a year, which was an amazing and humbling experience.  
 
 - firstname: Jenn
   lastname: Turner
