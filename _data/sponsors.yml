@@ -111,7 +111,7 @@
 
 - name: Olark
   short: olark
-  logo:
+  logo: olark.png
   url: http://www.olark.com
   event: Significant Others Track
   description: >
