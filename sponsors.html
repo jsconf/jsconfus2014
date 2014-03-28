@@ -24,12 +24,13 @@ id: sponsors
 
 <img src="/img/sponsor.jpg" alt="the audience" class="img-responsive"/>
 
+<article class="sponsors">
 {% for sponsor in site.data.sponsors %}
   <div class='sponsor' id='{{sponsor.short}}'>
     <div class='name'>
       <a href='{{sponsor.url}}'>
         {% if sponsor.logo %}
-          <img src='/img/sponsors/{{sponsor.short}}.png' alt='{{sponsor.name}}'/>
+          <img src='/img/sponsors/{{sponsor.logo}}' alt='{{sponsor.name}}'/>
         {% else %}
           <h3>{{sponsor.name}}</h3>
         {% endif %}
@@ -43,3 +44,4 @@ id: sponsors
     </div>
   </div>
 {% endfor %}
+</article>

@@ -163,6 +163,7 @@ h1 { margin-bottom: 1.5em;}
 
 .well.hover .boom { color: #b5371a;}
 
+.sponsors { margin-top: 1.5em; }
 
 .speaker, .sponsor {padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid #246f84;}
 .speaker .bio, .speaker .talk, .speaker .name { margin-left: 134px;}

@@ -1,6 +1,6 @@
 - name: Bloomberg
   short: bloomberg
-  logo:
+  logo: bloomberg.png
   url: http://www.bloomberg.com/company
   event: Closing Party
   description: >
@@ -31,7 +31,7 @@
 
 - name: Microsoft
   short: microsoft
-  logo:
+  logo: microsoft.png
   url: http://www.microsoft.com
   event: Opening Party
   description: >
@@ -45,7 +45,7 @@
 
 - name: Esri
   short: esri
-  logo:
+  logo: esri.png
   url: http://www.esri.com
   event: NodeBoats
   description: >
@@ -56,30 +56,41 @@
 
 - name: Facebook
   short: facebook
-  logo:
+  logo: facebook.png
   url: http://www.facebook.com
   event: NodeBots
   description: >
-    Facebook is the world's largest social network with over 900 million active
-    users. Founded in 2004, Facebook’s mission is to make the world more open
-    and connected. As an employer, Facebook strives to hire the best people who
-    want to move fast and make an impact. The company empowers people in every
-    way it can to allow our employees to focus on what they love to do. People
-    around the world use Facebook everyday to stay connected with friends and
-    family, to discover what’s going on, and to share and express what matters
-    to them.
+    Founded in 2004, Facebook’s mission is to make the world more open and
+    connected. People use Facebook to stay connected with friends and family,
+    to discover what’s going on in the world, and to share and express what
+    matters to them.
+
+
+    Connecting everyone, understanding the world, and building the knowledge
+    economy are huge technical challenges. Engineers at Facebook move fast and
+    push code everyday to build infrastructure and products that provide global,
+    real-time, and interconnected services for the 1.2 billion people who visit
+    Facebook every month.
 
 - name: Exact Target
   short: exacttarget
-  logo:
+  logo: exacttarget.png
   url: http://www.exacttarget.com
   event: Track B
   description: >
+    ExactTarget builds tools that empower organizations of all sizes to
+    communicate with their customers through email, mobile, social media, web,
+    and marketing automation. In addition, our open-source UI library and rich
+    set of APIs enable everyone to build on our extensive platform.
 
-- name: The Node Firm
-  short: nodefirm
+
+    The ExactTarget Marketing Cloud is a [salesforce.com](http://www.salesforce.com)
+    company, for more information visit [exacttarget.com](http://www.exacttarget.com)
+
+- name: NodeSource
+  short: nodesource
   logo:
-  url: http://www.thenodefirm.com
+  url: http://www.nodesource.com
   event: Golf
   description: >
 
@@ -97,7 +108,7 @@
 
 - name: Yammer
   short: yammer
-  logo:
+  logo: yammer.png
   url: https://www.yammer.com
   event: NodeRockets
   description: >
@@ -111,7 +122,7 @@
 
 - name: Olark
   short: olark
-  logo:
+  logo: olark.png
   url: http://www.olark.com
   event: Significant Others Track
   description: >
@@ -137,7 +148,7 @@
 
 - name: Condé Nast
   short: condenast
-  logo:
+  logo: condenast.png
   url: http://www.condenast.com
   event: Blast Off Arcade
   description: >
@@ -185,7 +196,7 @@
 
 - name: Adobe
   short: adobe
-  logo:
+  logo: adobe.png
   url: http://www.adobe.com
   event: Conference Internet and Wi-Fi
   description: >
@@ -207,7 +218,7 @@
 
 - name: Twilio
   short: twilio
-  logo:
+  logo: twilio.png
   url: http://www.twilio.com
   event: NodeCopter
   description: >
@@ -224,7 +235,7 @@
 
 - name: Mozilla
   short: mozilla
-  logo:
+  logo: mozilla.png
   url: http://www.mozilla.com
   event:
   description: >
