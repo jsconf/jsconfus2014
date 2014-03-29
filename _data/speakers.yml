@@ -1,4 +1,4 @@
-- firstname: Guillaume
+- firstname: G. C.
   lastname: Marty
   smurl: 
   smtype:
@@ -32,8 +32,37 @@
   smurl: http://twitter.com/othiym23
   smtype: twitter
   smhandle: "@othiym23"
-  title: TBD - which talk did we pick?
+  title: Learning ES6 as a Community
   body: >
+    The current schedule for the completion of ECMAScript 6, the next version of 
+    JavaScript, dictates that the language specification be finished by the end 
+    of the second quarter of 2014. Most browser vendors have made informal 
+    commitments to have ES6 implemented by the end of the year. Over the last couple 
+    years, we've heard a lot about the many new features in ES6, along with the debate 
+    (and bickering) which has gone into its design. ES6 stands to be the most substantial 
+    change to JavaScript since ES4 (which didn't work out that great, as most users of 
+    ES5 are aware).
+
+    With this much change comes a lot of complexity. Many of the new features 
+    (like generators or proxies) are powerful, basic abstractions, and as such 
+    combine in complex (and potentially unexpected) ways. In many ways, a new version 
+    of JavaScript offers the possibility of returning us to the wild frontier days 
+    that JavaScript only recently left behind, with library and framework vendors each 
+    choosing their own combinations of features to build powerful (and complicated) 
+    architectures that can really only be understood on their own terms.
+
+    However, as a community we've learned a lot over the last half decade or so, and 
+    I think we've learned how to tackle this problem head on. I've come up with a 
+    strategy that I think would allow us to collaboratively get to a good place with 
+    ES6 relatively quickly. I'll go over this strategy and point to the areas where 
+    I think we ought to spend the most time to get the most positive results.
+
+    It's up to us – as a community of designers, developers, and implementors – to 
+    get out in front and provide tooling, documentation, and training that will 
+    help ourselves use these new features effectively, before folklore and superstition 
+    start to take root. And it's important to remember that finishing ES6 frees the 
+    JavaScript standards bodies to concentrate on ES7, where our feedback from using 
+    ES6 will help them refine what comes next.  
   bio: >
 
 - firstname: James
@@ -62,10 +91,9 @@
   smurl: http://github.com/markmarkoh
   smtype:  github
   smhandle: "markmarkoh"
-  title:
+  title: Algorithms in User Interfaces
   body: >
-    TBD
-    Algorithms in User Interfaces. We would dig into some non-trivial computer science 
+    We would dig into some non-trivial computer science 
     algorithms and how they can be applied to creating a better user interface. From 
     determining the speed and direction of the mouse to [better handle dropdown menus](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) 
     to using a Voronoi tessellations to create [a variable sized hit state in data visualizations](https://github.com/mbostock/d3/wiki/Voronoi-Geom).
@@ -163,10 +191,10 @@
     This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
 
     The NPM-style frontend prefers modularity and simple abstractions that do one thing well.  THis talk includes:
-    - Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
-    - How to compose various modules together to build your own "framework" with your own trade offs.
-    - How to compose an application from smaller applications
-    - Build small UI components with thin interfaces that you glue together in your application. 
+    * Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
+    * How to compose various modules together to build your own "framework" with your own trade offs.
+    * How to compose an application from smaller applications
+    * Build small UI components with thin interfaces that you glue together in your application. 
 
     Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.  
   bio: >
