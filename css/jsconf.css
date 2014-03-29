@@ -184,3 +184,17 @@ box-shadow:         4px 4px 25px 0px rgba(50, 50, 50, 0.54);
 
 .speaker .name, .sponsor .name  { font-size: 24px; font-weight: bold; line-height:36px; vertical-align: middle; margin-bottom: 12px;}
 .speaker .name a.twitter { font-size: 16px; background: url(/img/bird.png) center left no-repeat; text-decoration: none; padding-left: 30px; margin-left: 30px; font-weight: normal; vertical-align: middle; margin-top:-4px;}
+
+.sponsor-block { vertical-align: middle;}
+.sponsor-block {
+    height: 200px;
+    width: 200px;
+    margin: 12px 25px;
+    display: block;
+    line-height: 200px;
+    float: left;
+    overflow: hidden;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}

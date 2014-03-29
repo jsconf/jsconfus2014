@@ -79,7 +79,7 @@ id: index
       <div class='clearfix'>
           {% for sponsor in site.data.sponsors %}
             {%if sponsor.visible %}
-            <a href='{{sponsor.url}}'><img src='/img/sponsors/{{sponsor.logo}}' alt='{{sponsor.name}}'/></a>
+            <a class='sponsor-block' href='{{sponsor.url}}'><img src='/img/sponsors/{{sponsor.logo}}' alt='{{sponsor.name}}'/></a>
 
             {% endif %}
           {% endfor %}
