@@ -42,10 +42,15 @@
 - name: PayPal
   visible: false
   short: paypal
-  logo:
+  logo: paypal.png
   url: http://www.paypal.com
   event: Segway Tours
   description: >
+    PayPal is changing the way that people do business, as well as the way that
+    large scale applications are built. From our open source [KrakenJs](http://krakenjs.com/)
+    application suite to our easy to use [APIs](https://developer.paypal.com/),
+    PayPal is proud to be part of the javascript community and creating
+    experiences that our customers and developers love.
 
 - name: Esri
   visible: true
