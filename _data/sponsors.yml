@@ -42,10 +42,15 @@
 - name: PayPal
   visible: false
   short: paypal
-  logo:
+  logo: paypal.png
   url: http://www.paypal.com
   event: Segway Tours
   description: >
+    PayPal is changing the way that people do business, as well as the way that
+    large scale applications are built. From our open source [KrakenJs](http://krakenjs.com/)
+    application suite to our easy to use [APIs](https://developer.paypal.com/),
+    PayPal is proud to be part of the javascript community and creating
+    experiences that our customers and developers love.
 
 - name: Esri
   visible: true
@@ -54,10 +59,9 @@
   url: http://www.esri.com
   event: NodeBoats
   description: >
-    Think and plan geographically. As the market leader in geographic
-    information systems (GIS), Esri technology is used in over 350,000
-    organizations worldwide. Use GIS to collect, manage, and analyze geographic
-    information, helping you solve problems and make better decisions.
+    Esri is an international supplier of Geographic Information System software,
+    web GIS and geodatabase management applications.  You can find out more
+    about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
 
 - name: Facebook
   visible: true
@@ -248,10 +252,19 @@
 - name: Meteor
   visible: false
   short: meteor
-  logo:
+  logo: meteor.png
   url: http://www.meteor.com
   event: Airport Transport
   description: >
+    Meteor is the best way to build modern applications.  First announced
+    in 2012, the open-source Meteor JavaScript framework comes with all
+    the parts you need: scalable real time data synchronization, an
+    easy-to-use reactive template system, and unified APIs that work the
+    same in both your client and your server code.  Build rich desktop and
+    mobile applications in a fraction of the time, whether you're an
+    expert or just getting started.  To learn more, visit us at
+    [www.meteor.com](www.meteor.com) or join us at one of our monthly events in
+    cities around the world.
 
 - name: Mozilla
   visible: true
@@ -291,10 +304,32 @@
 - name: SmartFace
   visible: false
   short: smartface
-  logo:
+  logo: smartface.png
   url: http://www.smartface.io
   event:
   description: >
+    You don’t have to know Java for Android and Objective-C for iOS. Just use
+    JavaScript, with Smartface App Studio.
+
+
+    Use Native UI components with WYSIWYG editor to easily design your app and
+    code with 100% JavaScript to develop native mobile apps for Android and iOS,
+    is the new way to build state-of-the-art mobile apps.
+
+
+    We’re trying to provide the fastest possible development environment for
+    you. We know that time is very important for all of us. Most of time in app
+    development is spent for design work. Smartface App Studio offers you "What
+    You See Is What You Get” design editor and this becomes very easy to use
+    with Native UI components. Just use these components and write .JS
+    functions! Your design will perfectly fit into Android and iOS devices.
+    Your app is ready for publish after that.
+
+
+    Single click publish button gives you .apk for Android and .xcodeproj for
+    iOS. You can easily download Smartface App Studio, easily develop to
+    cross-platform and easily get native output(s). Yes, you can get your app
+    outputs for Android and iOS in a same time.see less
 
 - name: Sentry
   visible: false
@@ -307,10 +342,15 @@
 - name: BitHound
   visible: false
   short: bithound
-  logo:
+  logo: bithound.jpg
   url: http://www.bithound.io
   event:
   description: >
+    It’s not hard to write code. It’s hard to write great, high-quality,
+    maintainable software. Right now, there’s no way to truly tell the
+    difference between bad code and great code. bitHound provides static,
+    real-time, and predictive analysis on any codebase to help developers,
+    manager, and executives alike build the best software possible, every day.
 
 - name: MongoDB
   visible: false
