@@ -304,10 +304,32 @@
 - name: SmartFace
   visible: false
   short: smartface
-  logo:
+  logo: smartface.png
   url: http://www.smartface.io
   event:
   description: >
+    You don’t have to know Java for Android and Objective-C for iOS. Just use
+    JavaScript, with Smartface App Studio.
+
+
+    Use Native UI components with WYSIWYG editor to easily design your app and
+    code with 100% JavaScript to develop native mobile apps for Android and iOS,
+    is the new way to build state-of-the-art mobile apps.
+
+
+    We’re trying to provide the fastest possible development environment for
+    you. We know that time is very important for all of us. Most of time in app
+    development is spent for design work. Smartface App Studio offers you "What
+    You See Is What You Get” design editor and this becomes very easy to use
+    with Native UI components. Just use these components and write .JS
+    functions! Your design will perfectly fit into Android and iOS devices.
+    Your app is ready for publish after that.
+
+
+    Single click publish button gives you .apk for Android and .xcodeproj for
+    iOS. You can easily download Smartface App Studio, easily develop to
+    cross-platform and easily get native output(s). Yes, you can get your app
+    outputs for Android and iOS in a same time.see less
 
 - name: Sentry
   visible: false
