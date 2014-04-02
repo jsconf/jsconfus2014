@@ -248,10 +248,19 @@
 - name: Meteor
   visible: false
   short: meteor
-  logo:
+  logo: meteor.png
   url: http://www.meteor.com
   event: Airport Transport
   description: >
+    Meteor is the best way to build modern applications.  First announced
+    in 2012, the open-source Meteor JavaScript framework comes with all
+    the parts you need: scalable real time data synchronization, an
+    easy-to-use reactive template system, and unified APIs that work the
+    same in both your client and your server code.  Build rich desktop and
+    mobile applications in a fraction of the time, whether you're an
+    expert or just getting started.  To learn more, visit us at
+    [www.meteor.com](www.meteor.com) or join us at one of our monthly events in
+    cities around the world.
 
 - name: Mozilla
   visible: true
