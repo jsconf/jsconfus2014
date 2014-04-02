@@ -316,10 +316,15 @@
 - name: BitHound
   visible: false
   short: bithound
-  logo:
+  logo: bithound.jpg
   url: http://www.bithound.io
   event:
   description: >
+    It’s not hard to write code. It’s hard to write great, high-quality,
+    maintainable software. Right now, there’s no way to truly tell the
+    difference between bad code and great code. bitHound provides static,
+    real-time, and predictive analysis on any codebase to help developers,
+    manager, and executives alike build the best software possible, every day.
 
 - name: MongoDB
   visible: false
