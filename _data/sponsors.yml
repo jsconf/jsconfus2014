@@ -54,10 +54,9 @@
   url: http://www.esri.com
   event: NodeBoats
   description: >
-    Think and plan geographically. As the market leader in geographic
-    information systems (GIS), Esri technology is used in over 350,000
-    organizations worldwide. Use GIS to collect, manage, and analyze geographic
-    information, helping you solve problems and make better decisions.
+    Esri is an international supplier of Geographic Information System software,
+    web GIS and geodatabase management applications.  You can find out more
+    about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
 
 - name: Facebook
   visible: true
