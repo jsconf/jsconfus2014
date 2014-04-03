@@ -70,7 +70,7 @@
   lastname: Long
   smurl: http://twitter.com/jlongster
   smtype: twitter
-  smhandle:"@jlongster"
+  smhandle: "@jlongster"
   title: sweet.js -- A Macro System for JavaScript
   body: >
   bio: >
@@ -240,7 +240,7 @@
   lastname: Perch
   smurl: http://twitter.com/kassandra_perch
   smtype: twitter
-  smhandle: @kassandra_perch
+  smhandle: "@kassandra_perch"
   title: Modular Application Architectures in Javascript
   body: >
     Web applications do not require an over-arching framework to be organized
@@ -358,7 +358,7 @@
   lastname: Turner
   smurl: http://twitter.com/renrutnnej
   smtype: twitter
-  smhandle: @renrutnnej
+  smhandle: "@renrutnnej"
   title:
   body: >
   bio: >
@@ -408,3 +408,4 @@
   title:
   body: >
   bio: >
+    Jenn Schiffer is a web developer. From the early age of 37 she held the amulet of scripts from which the soul of the Node baby cries. The noises had awoken the spirits from whic
