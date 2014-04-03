@@ -107,7 +107,7 @@
   description: >
 
 - name: Atlassian
-  visible: true
+  visible: false
   short: atlassian
   logo:
   url: http://www.atlassian.com
