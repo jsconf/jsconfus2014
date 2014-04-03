@@ -1,0 +1,411 @@
+- firstname: G. C.
+  lastname: Marty
+  smurl:
+  smtype:
+  smhandle:
+  title: Play DVDs in JavaScript for the sake of interoperability
+  body: >
+    We have everything we need to read DVD-video discs in a browser, so why
+    don’t we start?
+
+    For that purpose, I ported libdvdread and libdvdnav libraries to
+    JavaScript so that we can parse the DVD-video info files and emulate
+    a virtual machine.
+
+    But this comes with technical challenges such as browsers being bad
+    at manipulating huge files or not supporting the codecs used in DVD
+    (MPEG-2, AC-3...). That’s why this port comes with a server in Node.js
+    to circumvent these limitations.
+
+    The resulting project is a mix of websockets, video elements, media
+    source extensions and a lot of open source love.
+
+    Get ready for a mind blowing demo!
+  bio: >
+    Guillaume is passionate about web technologies and loves hacking and
+    building crazy things on top of open technologies. He's also
+    fascinated by video games, animation, and, as a Japanese speaker,
+    foreign languages.
+
+- firstname: Forrest L.
+  lastname: Norvell
+  smurl: http://twitter.com/othiym23
+  smtype: twitter
+  smhandle: "@othiym23"
+  title: Learning ES6 as a Community
+  body: >
+    The current schedule for the completion of ECMAScript 6, the next version of
+    JavaScript, dictates that the language specification be finished by the end
+    of the second quarter of 2014. Most browser vendors have made informal
+    commitments to have ES6 implemented by the end of the year. Over the last couple
+    years, we've heard a lot about the many new features in ES6, along with the debate
+    (and bickering) which has gone into its design. ES6 stands to be the most substantial
+    change to JavaScript since ES4 (which didn't work out that great, as most users of
+    ES5 are aware).
+
+    With this much change comes a lot of complexity. Many of the new features
+    (like generators or proxies) are powerful, basic abstractions, and as such
+    combine in complex (and potentially unexpected) ways. In many ways, a new version
+    of JavaScript offers the possibility of returning us to the wild frontier days
+    that JavaScript only recently left behind, with library and framework vendors each
+    choosing their own combinations of features to build powerful (and complicated)
+    architectures that can really only be understood on their own terms.
+
+    However, as a community we've learned a lot over the last half decade or so, and
+    I think we've learned how to tackle this problem head on. I've come up with a
+    strategy that I think would allow us to collaboratively get to a good place with
+    ES6 relatively quickly. I'll go over this strategy and point to the areas where
+    I think we ought to spend the most time to get the most positive results.
+
+    It's up to us – as a community of designers, developers, and implementors – to
+    get out in front and provide tooling, documentation, and training that will
+    help ourselves use these new features effectively, before folklore and superstition
+    start to take root. And it's important to remember that finishing ES6 frees the
+    JavaScript standards bodies to concentrate on ES7, where our feedback from using
+    ES6 will help them refine what comes next.
+  bio: >
+    Forrest has been a web developer since 1994, a semi-enthusiastic JavaScript user since 1997, a more enthusiastic AJAX developer since 2007, and a full-time Node.js developer since 2011. He built New Relic's instrumentation for Node.js, which required him to learn all of the JavaScript and then use it to do horrible, yet effective, things to write a performance monitor for Node in 100% pure JavaScript.
+
+- firstname: James
+  lastname: Long
+  smurl: http://twitter.com/jlongster
+  smtype: twitter
+  smhandle: "@jlongster"
+  title: sweet.js -- A Macro System for JavaScript
+  body: >
+  bio: >
+
+- firstname: David
+  lastname: Nolen
+  smurl: http://twitter.com/swannodette
+  smtype: twitter
+  smhandle: "@swannodette"
+  title:
+  body: >
+  bio: >
+    David Nolen is a JavaScript developer for the New York Times. He enjoys
+    making music, writing JavaScript, writing ClojureScript, and exploring new
+    approaches to user interface programming.
+
+- firstname: Mark
+  lastname: DiMarco
+  smurl: http://github.com/markmarkoh
+  smtype:  github
+  smhandle: "markmarkoh"
+  title: Algorithms in User Interfaces
+  body: >
+    We would dig into some non-trivial computer science
+    algorithms and how they can be applied to creating a better user interface. From
+    determining the speed and direction of the mouse to [better handle dropdown menus](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
+    to using a Voronoi tessellations to create [a variable sized hit state in data visualizations](https://github.com/mbostock/d3/wiki/Voronoi-Geom).
+
+    I'd show examples in the wild and break the algorithms down from mathematical
+    notation all the way to Javascript implementation. Should be especially
+    interesting given many people in our field lack CS degrees.
+  bio: >
+    [Mark DiMarco](http://work.markmarkoh.com/) is a Senior UI Engineer at Bazaarvoice in Austin, TX. He spends
+    his free time working on [DataMaps](http://datamaps.github.io/), attempting to master the art of brewing coffee,
+    and [taking photos](http://500px.com/markmarkoh) with his favorite piece of technology (a Nikon D600).
+
+- firstname: Nick
+  lastname: Bray
+  smurl: https://plus.google.com/u/0/112308070441027147599/posts
+  smtype: google+
+  smhandle:
+  title: pepper.js
+  body: >
+  bio: >
+    Nick is a software engineer working on Chrome at Google. He is currently
+    trying to figure out how to make native code work on the open web.  In his
+    spare time he thinks about compilers, domain-specific languages, and good
+    chocolate.
+
+- firstname: Christoph
+  lastname: Burgmer
+  smurl: http://github.com/cburgmer
+  smtype: github
+  smhandle: cburgmer
+  title: Hacking a HTML renderer in plain browser-side JS
+  body: >
+    TBD
+  bio: >
+    I love building things around software. Much of it in JavaScript for the web.
+    You'll find me hacking on Open Source while either contributing here, or
+    starting new stuff there. Apart from that, I love languages.
+
+- firstname: Kawandeep
+  lastname: Virdee
+  smurl: http://twitter.com/whichlight
+  smtype: twitter
+  smhandle: "@whichlight"
+  title: Collaborative Real-time Interactive Art with WebRTC
+  body: >
+    TBD
+  bio: >
+    Kawandeep Virdee is an open web artist, immensely inspired by the sharing
+    and collaboration of the JavaScript community. He uses technology and art
+    to explore ways we can create meaning and joy collectively. At Embedly, he
+    is a product designer and developer advocate. He is co-founder of the public
+    art group New American Public Art, which has installed interactive work
+    around Boston and the US. He is a trustee of the Boston chapter of the
+    Awesome Foundation, advocating for works involving open technology and
+    public joy. Tech art talks and workshops include the Art Institute of
+    Boston, MIT, Betascape, the Newcastle Connected Communities Symposium, and
+    Robotsconf. He blogs at [blog.whichlight.com](http://blog.whichlight.com)
+    and cultivates the tech art scene around Boston through Boston Creative
+    Coders.
+
+- firstname: Guy
+  lastname: Bedford
+  smurl: http://twitter.com/guybedford
+  smtype: twitter
+  smhandle: "@guybedford"
+  title: Package Management for ES6 Modules
+  body: >
+    How does the transition into ES6 modules work for browsers exactly? How do
+    we enable modular version-managed front-end architecture in the process?
+
+    [jspm](https://jspm.io) provides almost-magical™ package management for JavaScript
+    built around the principles of version-managed ES6-modules and the dynamic ES6 module
+    loader from the core.
+
+    In short, jspm starts off by making ES6 modules work dynamically in browsers today
+    through the dynamic ES6 Module Loader polyfilll, then we make all existing module
+    formats work through this same loader, then then we add offline build workflows
+    for production and a command-line package manager to allow modular dependency management.
+    Finally turn the whole thing around and add a CDN with server-push, and you have
+    install-free version-managed module loading in the browser.
+  bio: >
+    Guy is currently working on a number of open source projects relating to
+    module loading and package management in the browser.  He is the author of
+    jspm and SystemJS, and co-authored the ES6 Module Loader polyfill. Based in
+    Cape Town, South Africa, he also enjoys spending time in the US and works
+    as a freelance web developer.
+
+- firstname: Jake
+  lastname: Verbaten
+  smurl: http://twitter.com/Raynos
+  smtype: twitter
+  smhandle: "@Raynos"
+  title: NPM-style Frontend
+  body: >
+    This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
+
+    The NPM-style frontend prefers modularity and simple abstractions that do one thing well.  THis talk includes:
+    * Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
+    * How to compose various modules together to build your own "framework" with your own trade offs.
+    * How to compose an application from smaller applications
+    * Build small UI components with thin interfaces that you glue together in your application.
+
+    Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.
+  bio: >
+    Raynos is a Javascript Hacker, author of over 250 modules on npm. In his
+    spare time he works on all kind of projects from writing erver-less
+    application ontop of webrtc to implementing FRP in javascript. As a big fan
+    of node.js do one thing well philsophy he's been conquering web development
+    one small module at a time.
+
+- firstname: Nico
+  lastname: Bevacqua
+  smurl: http://twitter.com/nzgb
+  smtype: twitter
+  smhandle: "@nzgb"
+  title:
+  body: >
+  bio: >
+    Nico is an enthusiastic full-stack developer based in Buenos Aires,
+    Argentina, where he spends his days with the love of his life. When he's not
+    hacking as a full stack developer, Nico spends his time writing content for
+    [Pony Foo](http://blog.ponyfoo.com); or his upcoming book, named
+    [JavaScript Application Design](http://bevacqua.io/bf). Nico is a happy
+    pony, and you can find him as [@nzgb](http://twitter.com/nzgb) on Twitter,
+    because xkcd.
+
+- firstname: Ryan
+  lastname: Florence
+  smurl: http://twitter.comryanflorence
+  smtype: twitter
+  smhandle: "@ryanflorence"
+  title:
+  body: >
+  bio: >
+    I'm a software engineer from Salt Lake City, Utah and have been creating
+    websites since the early 90's. I like making awesome user experiences and
+    leaving behind maintainable code. I'm active in the JavaScript community
+    writing plugins, contributing to popular JavaScript libraries, speaking at
+    conferences & meet-ups, and writing about it on the web. I work as the
+    JavaScript guy at Instructure.
+
+- firstname: Kassandra
+  lastname: Perch
+  smurl: http://twitter.com/kassandra_perch
+  smtype: twitter
+  smhandle: "@kassandra_perch"
+  title: Modular Application Architectures in Javascript
+  body: >
+    Web applications do not require an over-arching framework to be organized
+    and maintainable. In fact, an application with modules from all over the
+    place can in fact be maintainable, understandable, and encouraged. Instead
+    of subscribing to one framework that provides developers with an entire
+    slew of unused or unneeded functionality, an architecture can be built
+    from the ground up using small modules from a variety of different sources.
+    This kind of architecture is taking off in the Node community, and is
+    starting to make its way in client-side javascript. This talk explores
+    the differences between using a formal framework- like Ember, Backbone,
+    Express, or Sails- and using a modular approach. Frameworks are not
+    entirely out of the picture- there are a few examples of frameworks that
+    encourage this kind of architecture by providing minimal structure in
+    the right places. This talk will explore those frameworks, and the
+    general ideas, benefits, and possible pitfalls of a modular architecture,
+    from both the client and server-side perspective.
+  bio: >
+    Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days
+    are spent at RetailMeNot, where she slings javascript and tries to make
+    developer processes easier. her nights and weekends are spent slinging more
+    javascript, teaching for Girl Develop It!, and re-learning how to roller
+    skate. She's an unrepentant JS addict- and is especially interested in JS
+    robotics/hardware.
+
+- firstname: Spike
+  lastname: Brehm
+  smurl: http://twitter.com/spikebrehm
+  smtype: twitter
+  smhandle: "@spikebrehm"
+  title: Building Isomorphic Apps
+  body: >
+    TBD - Too damned long
+  bio: >
+    Spike Brehm is a web engineer at Airbnb. He's currently prototyping the
+    next generation of Airbnb's front end stack, tackling the problem of
+    \isomorphic JavaScript\ -- building apps that have the flexibility to run
+    on both the client and server using the same codebase. When not busy
+    maintaining Rendr, Airbnb's library for isomorphic JavaScript apps, Spike
+    spends his time enjoying San Francisco.
+
+- firstname: Marco
+  lastname: Rogers
+  smurl: http://twitter.compolotek
+  smtype: twitter
+  smhandle: "@polotek"
+  title: TBD
+  body: >
+    TBD - Nothing usable
+  bio: >
+    Marco is an engineer who loves building things for the web. He's been doing
+    server-side javascript since before it was cool (and before it was node).
+    But he spends most of his time in the browser these days as Front-end
+    Engineering Lead at Yammer. You can find him as
+    [@polotek](http://twtiter.com/polotek) almost everywhere online. He also
+    tweets occasionally.
+
+- firstname: Ryan
+  lastname: Paul
+  smurl: http://twitter.com/segphault
+  smtype: twitter
+  smhandle: "@segphault"
+  title: TBD - MontageJS, a component-oriented, CommonJS/npm based MVC framework.
+  body: >
+    TBD
+  bio: >
+    Ryan Paul is head of Developer Relations at Montage Studio, a startup dedicated
+    to helping developers build large frontend Web applications with reusable
+    components. He is a Linux enthusiast and open source software developer.
+    Ryan also writes articles about software development for Ars Technica, a popular
+    technology news site.
+
+- firstname: Brian J.
+  lastname: Brennan
+  smurl: http://twitter.com/brianloveswords
+  smtype: twitter
+  smhandle: "@brianloveswords"
+  title:
+  body: >
+  bio: >
+    Brian is a bassist, an event organizer of BrooklynJS, a mentor of NodeSchool,
+    and a cat owner. When he's not being one of those other things, he's a software
+    architect at Mozilla working on the OpenBadges project
+
+- firstname: Bodil
+  lastname: Stokke
+  smurl: http://twitter.com/bodil
+  smtype: twitter
+  smhandle: "@bodil"
+  title: TBD
+  body: >
+    TBD
+  bio: >
+    Bodil is a compulsive conference speaker in the fields of functional programming
+    and internets technologies, and is a co-organiser of multiple developer conferences
+    in Scandinavia and the UK, mostly because she’s still learning how to stop. She is a
+    prolific contributor to the Free Software community, and has recently taken up
+    designing new programming languages as a hobby. In her spare time, she works as a
+    developer for Future Ad Labs, a London based startup that wants to make advertising
+    a productive member of society. Her favourite pony is Pinkie Pie.
+
+- firstname: David
+  lastname: Calhoun
+  smurl: http://twitter.com/franksvalli
+  smtype: twitter
+  smhandle: franksvalli
+  title:
+  body: >
+  bio: >
+    David Calhoun is a UI engineer working at Skybox Imaging in Mountain View, using open web technology to build interfaces for satellite imagery and video processing, a satellite imagery scheduling interface, and a websocket-powered telemetry dashboard.  Prior to that he's worked on the Node.js-backed CNET mobile website, as well as Yahoo! Mobile.  He also occasionally contracts for WebMocha.
+    Most recently he's lived in Kyoto, Japan for a year, which was an amazing and humbling experience.
+    He tweets at @franksvalli and writes longer stuff at ([davidbcalhoun.com](http://davidbcalhoun.com)), and was even once lucky enough to be published in Web Performance Daybook Volume 2.
+
+- firstname: Jenn
+  lastname: Turner
+  smurl: http://twitter.com/renrutnnej
+  smtype: twitter
+  smhandle: "@renrutnnej"
+  title:
+  body: >
+  bio: >
+    By day, Jenn works at [&yet](http://andyet.com) as the Chief Jenn Officer,
+    contributing to the departments of marketing, design, editorial, internal
+    affairs, conference organization, awesome, and user experience.
+    By night, she spends her time tweeting sporadically as
+    [@renrutnnej](http://twitter.com/renrutnnej), starts the beginnings of many,
+    many side projects, conducts mini-experiments with code, and hangs out with
+    her two favorite people in the whole world wide web: Lee and Mila.
+
+- firstname: Travell
+  lastname: Perkins
+  smurl:
+  smtype:
+  smhandle:
+  title:
+  body: >
+  bio: >
+    Travell is a classically trained computer scientist; he tries to go beyond just getting things working. He has skills and passion in the areas of financial services, consumer internet, digital media, cloud computing, sustainability, and everything startups.
+    Travell is currently the CTO of Fidsafe, an online safe deposit box offered by Fidelity. Travell has been hacking since he was in the 6th grade.  He holds degrees in computer science and business from MIT and BU respectively.
+
+- firstname: Neil
+  lastname: Green
+  smurl:
+  smtype:
+  smhandle:
+  title:
+  body: >
+  bio: >
+    Neil works as a lead developer at IntercontinentalExchange (ICE), a
+    financial and commodities exchange.   He is the UI architect of ICE's
+    social, messaging, and app integration platform, and lead implementer of the
+    platform's core systems.   Neil's true passion lies in coaching engineers on
+    the practical application of software engineering and architectural design
+    principles through coding competitions and extreme code reviews.   He finds
+    it amusing that Java developers are celebrating the arrival of lambdas 15
+    years after JavaScript had them.  In his spare time, Neil channels his
+    appreciation for caffeine into the daily refactoring of his French pressed
+    coffee making technique.
+
+- firstname: Jenn
+  lastname: Schiffer
+  smurl:
+  smtype:
+  smhandle:
+  title:
+  body: >
+  bio: >
+    Jenn Schiffer is a web developer. From the early age of 37 she held the amulet of scripts from which the soul of the Node baby cries. The noises had awoken the spirits from whic

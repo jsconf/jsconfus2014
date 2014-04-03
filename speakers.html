@@ -4,34 +4,28 @@ title: "Call for Speakers"
 id: speakers
 ---
 <div class='container'>
-<h2>JSConf US 2014 Call for Speakers</h2>
-<div class='well'><b>Ready to Take Off?</b> <a href="https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA">Sign up now to speak at JSConf US 2014!</a>
+<h2>{{site.name}} Speakers</h2>
+
+{% for speaker in site.data.speakers %}
+<div class='col-md-6'>
+<div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
+  <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.jpg' alt='{{speaker.firstname}} {{speaker.lastname}}'/></div>
+  <div class='name'>
+    <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
+    {% if speaker.smhandle %}
+      <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>{{speaker.smhandle}}</a>
+    {% endif %}
+  </div>
+  <div class='talk'>
+    <div class='title'>{{speaker.title}}</div>
+    {{speaker.body}}
+  </div>
+  <div class='bio'>
+    <div class='title'>Meet {{speaker.firstname}}</div>
+    {{speaker.bio | markdownify}}
+  </div>
 </div>
-<p>At JSConf, we strive every year to push the boundaries of what is possible with JS by spotlighting the future of the language and those making that future a reality. If you haven't spoken at a JSConf, you are actually in a better position than those that have because we want new people, new ideas, and new presentations. We have a long history of focusing on individuals that would otherwise never get a stage. We have made JSConf the platform for risky, crazy, and amazing things to flourish into even bigger, more widely-known products, ideas, and libraries. Many of the brightest things in JS have their roots deeply engrained with JSConf and this is something we take incredible pride in. We push ourselves each year to take riskier and riskier speakers, because they define the discussion about JS over the next year or years. Unlike other events, attendees do not come to JSConf to learn JS, they come to have their minds blown about what they had never thought could be possible with JS. </p>
-
-<p>We have <a href="https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA">opened up our Call for Speakers form</a> and that will remain open until Friday, January 10<sup>th</sup> at 12:00PM EST. As we have always done, we are seeking out new ideas and concepts that push the boundaries of JS and the JS community. We welcome strange and unusual presentations as long as they remain within the boundaries of our well established <a href="http://jsconf.com/codeofconduct.html">Code of Conduct</a>. We are looking for talks focused on all parts of JS, including but not limited to:</p>
-
-<ul>
-<li>Data Management</li>
-<li>Web Security</li>
-<li>MVC Frameworks</li>
-<li>Server Side JS</li>
-<li>Compile to JS Languages/JSVM</li>
-<li>Mobile Web</li>
-<li>Future of JS</li>
-<li>Education and Outreach of Computer Programming</li>
-</ul>
-
-
-<p>We are champions of a different approach to finding speaker as well with a process called an "inverse call for speakers". Unlike a traditional call for spekaers, if you want to nominate a person and idea that you would like to see, you can submit that as well into our <a href="https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA">call for speakers</a>. If you are the person submitting yourself, which is completely cool and encouraged, please mark your submission as "this is me", so we can write you back if your submission is or is not accepted.</p>
-
-<h3>If selected, what do I get?</h3>
-<p>We will be inviting a small, focused, and inspiring handful of speakers to present and help with workshops at the event. As with every JSConf event, we happily provide the following:</p>
-<ul>
-<li>Free admission to JSConf US 2014 which includes access all three days of conference and all of the associated events. If you want to bring your Significant Other(s), please do - we try to make this as much of a "family-friendly" event as possible and hopefully, if all goes well, will have activities set up for significant others to meet one another. At a minimum, its a resort with plenty of things to do and it is Florida so it will be warm and beachy.</li>
-<li>Up to 4 nights at the Omni Amelia Island Resort Single or Double occupancy. If you require fewer nights, that can of course be arranged. We will handle all of the reservations for you, just let us know when you will be arriving and departing.</li>
-<li>Travel reimbursement for your journey to and from JSConf (most likely through Jacksonville airport - code: JAX). We will need proper receipts for travel and can book the travel for you if you prefer (actually this way makes it easier for everyone normally, so please consider it). Once you have your travel booked, please forward your itinerary to us so we can book your hotel rooms accordingly.</li>
-<li>30 minutes to present in front of the greatest gathering of JS developers ever assembled!</li>
-</ul>
+</div>
+{% endfor %}
 
 </div>

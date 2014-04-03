@@ -1,0 +1,369 @@
+- name: Bloomberg
+  visible: true
+  short: bloomberg
+  logo: bloomberg.png
+  url: http://www.bloomberg.com/company
+  event: Closing Party
+  description: >
+    [Bloomberg](http://www.bloomberg.com/company) is the world's most trusted
+    source of information for businesses and professionals. Bloomberg combines
+    innovative technology with unmatched analytic, data, news, display and
+    distribution capabilities, to deliver critical information via the
+    BLOOMBERG PROFESSIONAL&reg; service and multimedia platforms. Bloomberg's
+    media services cover the world with more than 2,200 news and multimedia
+    professionals at 146 bureaus in 72 countries. The BLOOMBERG TELEVISION&reg;
+    24-hour network delivers smart television to more than 240 million homes.
+    BLOOMBERG RADIO&reg; services broadcast via SIRIUS XM Radio and
+    1worldspace&trade; satellite radio globally and on WBBR 1130AM in New York.
+    The award-winning monthly BLOOMBERG MARKETS&reg; magazine, Bloomberg
+    BusinessWeek magazine and the BLOOMBERG.COM&reg; financial news and
+    information Web site provide news and insight to businesses and investors.
+
+- name: Salesforce
+  visible: true
+  short: salesforce
+  logo: salesforce.png
+  url: http://www.salesforce.com
+  event: Walker's Landing Party
+  description: >
+    [Salesforce.com](http://www.salesforce.com) is the enterprise cloud
+    computing leader. Our social and mobile cloud technologies—including our
+    flagship sales and CRM applications—help companies connect with customers,
+    partners, and employees in entirely new ways.
+
+- name: Microsoft
+  visible: false
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com
+  event: Opening Party
+  description: >
+
+- name: PayPal
+  visible: false
+  short: paypal
+  logo: paypal.png
+  url: http://www.paypal.com
+  event: Segway Tours
+  description: >
+    PayPal is changing the way that people do business, as well as the way that
+    large scale applications are built. From our open source [KrakenJs](http://krakenjs.com/)
+    application suite to our easy to use [APIs](https://developer.paypal.com/),
+    PayPal is proud to be part of the javascript community and creating
+    experiences that our customers and developers love.
+
+- name: Esri
+  visible: true
+  short: esri
+  logo: esri.png
+  url: http://www.esri.com
+  event: NodeBoats
+  description: >
+    Esri is an international supplier of Geographic Information System software,
+    web GIS and geodatabase management applications.  You can find out more
+    about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
+
+- name: Facebook
+  visible: true
+  short: facebook
+  logo: facebook.png
+  url: http://www.facebook.com
+  event: NodeBots
+  description: >
+    Founded in 2004, Facebook’s mission is to make the world more open and
+    connected. People use Facebook to stay connected with friends and family,
+    to discover what’s going on in the world, and to share and express what
+    matters to them.
+
+
+    Connecting everyone, understanding the world, and building the knowledge
+    economy are huge technical challenges. Engineers at Facebook move fast and
+    push code everyday to build infrastructure and products that provide global,
+    real-time, and interconnected services for the 1.2 billion people who visit
+    Facebook every month.
+
+- name: Exact Target
+  visible: true
+  short: exacttarget
+  logo: exacttarget.png
+  url: http://www.exacttarget.com
+  event: Track B
+  description: >
+    ExactTarget builds tools that empower organizations of all sizes to
+    communicate with their customers through email, mobile, social media, web,
+    and marketing automation. In addition, our open-source UI library and rich
+    set of APIs enable everyone to build on our extensive platform.
+
+
+    The ExactTarget Marketing Cloud is a [salesforce.com](http://www.salesforce.com)
+    company, for more information visit [exacttarget.com](http://www.exacttarget.com)
+
+- name: NodeSource
+  visible: false
+  short: nodesource
+  logo:
+  url: http://www.nodesource.com
+  event: Golf Tournament
+  description: >
+
+- name: Atlassian
+  visible: false
+  short: atlassian
+  logo:
+  url: http://www.atlassian.com
+  event: NodeRockets
+  description: >
+    Atlassian products help innovators everywhere plan, build and launch great
+    software. More than 24,000 large and small organizations – including
+    Citigroup, eBay, Netflix and Nike – use Atlassian’s agile project
+    management, collaboration and software-development products to work smarter
+    and deliver quality results on time.
+
+- name: Yammer
+  visible: true
+  short: yammer
+  logo: yammer.png
+  url: https://www.yammer.com
+  event: NodeRockets
+  description: >
+    [Yammer](http://www.yammer.com) is a secure, private social network for
+    your company. Yammer empowers employees to be more productive and successful
+    by enabling them to collaborate easily, make smarter decisions faster, and
+    self-organize into teams to take on any business challenge. It is a new way
+    of working that naturally drives business alignment and agility, reduces
+    cycle times, engages employees and improves relationships with customers
+    and partners.
+
+- name: Olark
+  visible: true
+  short: olark
+  logo: olark.png
+  url: http://www.olark.com
+  event: Significant Others Track
+  description: >
+    Live chat is the only way to talk to customers while they are still on your
+    website. Every day tons of potential customers come your way. But who are
+    they? Do they understand what's on your site? What are they looking for?
+
+
+    Find out with [Olark](http://www.olark.com) &mdash; in 5 minutes you can
+    see exactly who's visiting your site and start chatting with them. Ever
+    wanted to just get some quick feedback? Olark makes it happen.
+
+
+    We love talking shop about Backbone, node, realtime systems, and lighting
+    our 100ft tall redwood tree.  Come and grab a drink with us!
+
+- name: Novus
+  visible: false
+  short: novus
+  logo:
+  url: http://www.novus.com
+  event: Beach Entertainment
+  description: >
+
+- name: Condé Nast
+  visible: true
+  short: condenast
+  logo: condenast.png
+  url: http://www.condenast.com
+  event: Blast Off Arcade
+  description: >
+    [Condé Nast](https://www.condenast.com) is home to some of the world's most
+    celebrated media brands. In the United States, Condé Nast publishes 18
+    consumer magazines, four business-to-business publications, 27 websites,
+    and more than 50 apps for mobile and tablet devices, all of which define
+    excellence in their categories. The company also owns Fairchild Fashion
+    Media (FFM), whose portfolio of brands serves as the leading source of news
+    and analysis for the global fashion community. Condé Nast has won more
+    National Magazine Awards over the past ten years than all of its competitors
+    combined.
+
+
+    Visit CondéNast.com and follow us on Twitter [@CondeNastCorp](http://twitter.com/@CondeNastCorp) and
+    [@CondeNastCareer](http://www.twitter.com/CondeNastCareer)
+
+- name: Heroku
+  visible: false
+  short: heroku
+  logo:
+  url: http://www.heroku.com
+  event: Bike Rentals
+  description: >
+
+- name: Sauce Labs
+  visible: false
+  short: saucelabs
+  logo:
+  url: http://www.saucelabs.com
+  event: Pool Entertainment
+  description: >
+
+- name: Pebble
+  visible: false
+  short: pebble
+  logo:
+  url: http://www.getpebble.com
+  event: Scavenger Hunt
+  description: >
+
+- name: Cox Media Group
+  visible: false
+  short: cox
+  logo:
+  url: http://www.cox.com
+  event: Campfires
+  description: >
+
+- name: Adobe
+  visible: true
+  short: adobe
+  logo: adobe.png
+  url: http://www.adobe.com
+  event: Conference Internet and Wi-Fi
+  description: >
+    Adobe makes tools that enable web designers and developers to share their
+    creativity with the world and believes the web platform will deliver all
+    the rich experiences that authors want and need. We're helping to make this
+    vision a reality through our contributions of creative features such as
+    advanced layout and cinematic effects to web standards and HTML rendering
+    engines.
+
+
+    Try our new [Adobe Edge Tools &amp; Services](http://html.adobe.com/edge/?promoid=KCLRW)
+    to design, animate, code, package, and deliver mobile-ready content and
+    apps individually, together, or with other tools.
+
+
+    Get started with Edge Tools &amp; Services with a free Creative Cloud
+    Membership: [http://html.adobe.com/edge/?promoid=KCLRW](http://html.adobe.com/edge/?promoid=KCLRW)
+
+- name: Twilio
+  visible: true
+  short: twilio
+  logo: twilio.png
+  url: http://www.twilio.com
+  event: NodeCopter
+  description: >
+    [Twilio](http://www.twilio.com) is powering the future of business
+    communications software by enabling voice, VoIP, and messaging to be easily
+    embedded into applications whether existing or built new on Twilio.
+
+- name: Meteor
+  visible: false
+  short: meteor
+  logo: meteor.png
+  url: http://www.meteor.com
+  event: Airport Transport
+  description: >
+    Meteor is the best way to build modern applications.  First announced
+    in 2012, the open-source Meteor JavaScript framework comes with all
+    the parts you need: scalable real time data synchronization, an
+    easy-to-use reactive template system, and unified APIs that work the
+    same in both your client and your server code.  Build rich desktop and
+    mobile applications in a fraction of the time, whether you're an
+    expert or just getting started.  To learn more, visit us at
+    [www.meteor.com](www.meteor.com) or join us at one of our monthly events in
+    cities around the world.
+
+- name: Mozilla
+  visible: true
+  short: mozilla
+  logo: mozilla.png
+  url: http://www.mozilla.com
+  event:
+  description: >
+    The [Mozilla Corporation](http://www.mozilla.com) is a global community
+    dedicated to building free, open source products and technologies that
+    improve the online experience for people everywhere. We work in the open
+    with a highly disciplined, transparent and cooperative development process,
+    under the umbrella of the non-profit Mozilla Foundation. As a wholly owned
+    subsidiary, the Mozilla Corporation organizes the development and marketing
+    of Mozilla products. This unique structure has enabled Mozilla to
+    financially support and cultivate competitive, viable community innovation.
+
+
+    For more information, visit [www.mozilla.com](http://www.mozilla.com)
+
+- name: Shopify
+  visible: false
+  short: shopify
+  logo:
+  url: http://www.shopify.com
+  event:
+  description: >
+
+- name: NPM, Inc.
+  visible: false
+  short: npm
+  logo:
+  url: http://www.npmjs.com
+  event: Coffee and Espresso Service
+  description: >
+
+- name: SmartFace
+  visible: false
+  short: smartface
+  logo: smartface.png
+  url: http://www.smartface.io
+  event:
+  description: >
+    You don’t have to know Java for Android and Objective-C for iOS. Just use
+    JavaScript, with Smartface App Studio.
+
+
+    Use Native UI components with WYSIWYG editor to easily design your app and
+    code with 100% JavaScript to develop native mobile apps for Android and iOS,
+    is the new way to build state-of-the-art mobile apps.
+
+
+    We’re trying to provide the fastest possible development environment for
+    you. We know that time is very important for all of us. Most of time in app
+    development is spent for design work. Smartface App Studio offers you "What
+    You See Is What You Get” design editor and this becomes very easy to use
+    with Native UI components. Just use these components and write .JS
+    functions! Your design will perfectly fit into Android and iOS devices.
+    Your app is ready for publish after that.
+
+
+    Single click publish button gives you .apk for Android and .xcodeproj for
+    iOS. You can easily download Smartface App Studio, easily develop to
+    cross-platform and easily get native output(s). Yes, you can get your app
+    outputs for Android and iOS in a same time.see less
+
+- name: Sentry
+  visible: false
+  short: sentry
+  logo:
+  url: http://www.getsentry.com
+  event:
+  description: >
+
+- name: BitHound
+  visible: false
+  short: bithound
+  logo: bithound.jpg
+  url: http://www.bithound.io
+  event:
+  description: >
+    It’s not hard to write code. It’s hard to write great, high-quality,
+    maintainable software. Right now, there’s no way to truly tell the
+    difference between bad code and great code. bitHound provides static,
+    real-time, and predictive analysis on any codebase to help developers,
+    manager, and executives alike build the best software possible, every day.
+
+- name: MongoDB
+  visible: false
+  short: mongodb
+  logo:
+  url: http://www.mongodb.com
+  event:
+  description: >
+
+- name: Willow Tree Apps
+  visible: false
+  short: willowtree
+  logo:
+  url: http://www.willowtreeapps.com
+  event:
+  description: >
