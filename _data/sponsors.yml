@@ -40,7 +40,7 @@
   description: >
 
 - name: PayPal
-  visible: false
+  visible: true
   short: paypal
   logo: paypal.png
   url: http://www.paypal.com
@@ -107,7 +107,7 @@
   description: >
 
 - name: Atlassian
-  visible: false
+  visible: true
   short: atlassian
   logo:
   url: http://www.atlassian.com
@@ -250,7 +250,7 @@
     embedded into applications whether existing or built new on Twilio.
 
 - name: Meteor
-  visible: false
+  visible: true
   short: meteor
   logo: meteor.png
   url: http://www.meteor.com
@@ -302,7 +302,7 @@
   description: >
 
 - name: SmartFace
-  visible: false
+  visible: true
   short: smartface
   logo: smartface.png
   url: http://www.smartface.io
@@ -340,7 +340,7 @@
   description: >
 
 - name: BitHound
-  visible: false
+  visible: true
   short: bithound
   logo: bithound.jpg
   url: http://www.bithound.io
