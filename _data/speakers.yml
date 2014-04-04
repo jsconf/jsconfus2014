@@ -208,7 +208,7 @@
     How does the transition into ES6 modules work for browsers exactly? How do 
     we enable modular version-managed front-end architecture in the process?
 
-    [jspm](https://jspm.io) provides almost-magical™ package management for JavaScript 
+    [jspm](https://jspm.io) provides almost-magical package management for JavaScript 
     built around the principles of version-managed ES6-modules and the dynamic ES6 module 
     loader from the core.
 
