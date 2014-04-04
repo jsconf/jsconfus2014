@@ -9,12 +9,16 @@ id: speakers
 {% for speaker in site.data.speakers %}
 <div class='col-md-6'>
 <div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
+  <div class='pull-right'>
+  {% if speaker.smhandle %}
+    <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
+      {{speaker.smhandle}}
+    </a>
+  {% endif %}
+  </div>
   <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.jpg' alt='{{speaker.firstname}} {{speaker.lastname}}'/></div>
   <div class='name'>
     <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
-    {% if speaker.smhandle %}
-      <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>{{speaker.smhandle}}</a>
-    {% endif %}
   </div>
   <div class='talk'>
     <div class='title'>{{speaker.title}}</div>
