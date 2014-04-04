@@ -153,16 +153,10 @@
   smurl: http://github.com/markmarkoh
   smtype:  github
   smhandle: "markmarkoh"
-  title: Algorithms in User Interfaces
+  title: User Interface Algorithms
   body: >
-    We would dig into some non-trivial computer science
-    algorithms and how they can be applied to creating a better user interface. From
-    determining the speed and direction of the mouse to [better handle dropdown menus](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
-    to using a Voronoi tessellations to create [a variable sized hit state in data visualizations](https://github.com/mbostock/d3/wiki/Voronoi-Geom).
-
-    I'd show examples in the wild and break the algorithms down from mathematical
-    notation all the way to Javascript implementation. Should be especially
-    interesting given many people in our field lack CS degrees.
+    Even something as simple as a dropdown menu or a bar graph can introduce usability problems. From a slide out menu disappearing when a user's mouse moves a few pixels too far, to requiring NASA-like levels of precision to mouse over the right element, there are algorithms already implemented in Javascript to help us overcome these problems.
+    If an algorithm is defined as "a step-by-step procedure for calculations", let's visually break down those steps for 2 different non-trivial algorithms and explore how these algorithms are applied to some standard & everyday user interface patterns. We'll first look at an algorithm for predicting a user's intentions by calculating mouse speed and direction, and then tackle determining hit state for hundreds of non-uniformed, variably sized and placed UI elements.
   bio: >
     [Mark DiMarco](http://work.markmarkoh.com/) is a Senior UI Engineer at Bazaarvoice in Austin, TX. He spends
     his free time working on [DataMaps](http://datamaps.github.io/), attempting to master the art of brewing coffee,
