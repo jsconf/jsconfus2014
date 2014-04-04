@@ -1,4 +1,4 @@
-- firstname: G. C.
+- firstname: Guillaume C.
   lastname: Marty
   visible: false
   smurl:
@@ -121,13 +121,25 @@
   smurl: https://plus.google.com/u/0/112308070441027147599/posts
   smtype: google+
   smhandle:
-  title: pepper.js
+  title: Native Code on the Web?
   body: >
+    What will it take for native code to become part of the web platform?  The web platform
+    has many wonderful qualities, but easy interoperability with other platforms is not
+    one of them.  Do you want to simultaneously develop for both native mobile and the web?
+    Or use an awesome library in your web app, but it’s written in C++?  Well... you can.
+    Almost.  Maybe.  Sometimes.  Sort of.  Many disclaimers and restrictions apply.
+    But what will it take for the answer to just be "yes"?
+
+    This talk will dive deep into the world of native code on the web, compiling C++ into
+    JavaScript, and look at the gaps that need to be filled.  A number of intertwined topics
+    will be touched on, including: Emscripten, PNaCl, pepper.js, JS VM and browser internals,
+    web workers, nitty-gritty details of JavaScript and C++, multi-threaded programming, and
+    the horror of memory models.  All will be explained, as long as you’re willing to take the plunge.
   bio: >
-    Nick is a software engineer working on Chrome at Google. He is currently
-    trying to figure out how to make native code work on the open web.  In his
-    spare time he thinks about compilers, domain-specific languages, and good
-    chocolate.
+    Nick is a software engineer working on Chrome at Google.  He is the author of pepper.js,
+    a library that allows Native Client applications to be compiled into JavaScript. He is
+    currently trying to figure out how to make native code work on the web, and make it work well.
+    In his spare time he thinks about compilers, domain-specific languages, and good chocolate.
 
 - firstname: Christoph
   lastname: Burgmer
@@ -151,7 +163,14 @@
   smhandle: "@whichlight"
   title: Collaborative Real-time Interactive Art with WebRTC
   body: >
-    TBD
+    Interactive art can be a powerful means to inspire conversations, creativity,
+    and wonder among groups of people. It is now easier to build interactive and
+    collaborative apps with JavaScript, and these features can be used for expressive
+    works.  I'll describe using JS to make web art, as well as installation and
+    projection art.  Because of web standards as well as browser performance
+    improvements, you can make JS art that is accessible on a variety of platforms.
+    The openness of the JavaScript community inspires the openness of creative coding
+    in JavaScript, producing works that invite exploration, learning, and hacking.
   bio: >
     Kawandeep Virdee is an open web artist, immensely inspired by the sharing
     and collaboration of the JavaScript community. He uses technology and art
@@ -213,8 +232,8 @@
     Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.
   bio: >
     Raynos is a Javascript Hacker, author of over 250 modules on npm. In his
-    spare time he works on all kind of projects from writing erver-less
-    application ontop of webrtc to implementing FRP in javascript. As a big fan
+    spare time he works on all kind of projects from writing server-less
+    application on top of WebRTC to implementing FRP in javascript. As a big fan
     of node.js do one thing well philsophy he's been conquering web development
     one small module at a time.
 
@@ -224,8 +243,16 @@
   smurl: http://twitter.com/nzgb
   smtype: twitter
   smhandle: "@nzgb"
-  title:
+  title: Front End Ops Tooling
   body: >
+    This talk covers build tooling, processes, and your development workflow. You'll
+    get a glimpse as to why you should be building, and why you should put together a
+    build process from the get-go. Then we'll move on to tooling. Here I'll discuss
+    some of the most popular JavaScript build tools, namely Grunt, Gulp, and npm.
+    We'll investigate how each one performs for certain tasks, and I'll help you forge
+    your own build sword. Lastly, I'll discuss the benefits of going for the module
+    format Node.js uses, which is Common.js, and how you can leverage those modules
+    in the browser, using a tool called Browserify.
   bio: >
     Nico is an enthusiastic full-stack developer based in Buenos Aires,
     Argentina, where he spends his days with the love of his life. When he's not
@@ -238,11 +265,23 @@
 - firstname: Ryan
   lastname: Florence
   visible: false
-  smurl: http://twitter.comryanflorence
+  smurl: http://twitter.com/ryanflorence
   smtype: twitter
   smhandle: "@ryanflorence"
-  title:
+  title: Embularactymerbone
   body: >
+    Ember, Angular, React, Polymer, and Backbone. Following in
+    jQuery's footsteps, these projects (and others) are helping to drive
+    some future APIs in the browser.
+
+    While they all get lumped into the category "Frontend MVC", an intimate
+    look at each reveals they are quite different. These stark and subtle
+    differences matter when choosing one for your project.
+
+    In this session, you'll see each project's sweet spot, and where each
+    struggles. You'll get a healthy dose of code as we explore the primary
+    APIs. You will walk away with a better understanding of the goals and
+    intended use-cases for each project.
   bio: >
     I'm a software engineer from Salt Lake City, Utah and have been creating
     websites since the early 90's. I like making awesome user experiences and
@@ -324,12 +363,16 @@
 - firstname: Marco
   lastname: Rogers
   visible: false
-  smurl: http://twitter.compolotek
+  smurl: http://twitter.com/polotek
   smtype: twitter
   smhandle: "@polotek"
-  title: TBD
+  title: Finding Patterns Across Front-end Frameworks
   body: >
-    TBD - Nothing usable
+    We're all building a client-side framework. And they're all different implementations
+    of the same stuff. I want to compare the approaches that popular frameworks take to
+    solving these patterns. If they even try to solve them at all. I also want to include
+    info about the custom framework that Yammer uses. It'll be illustrative to see how all
+    of these have different approaches to the same set of patterns.
   bio: >
     Marco is an engineer who loves building things for the web. He's been doing
     server-side javascript since before it was cool (and before it was node).
@@ -391,8 +434,24 @@
   smurl: http://twitter.com/franksvalli
   smtype: twitter
   smhandle: "@franksvalli"
-  title: Real-time Satellite Tracking in the Browser
+  title: Realtime Satellite Tracking in the Browser
   body: >
+    In 1980 the United States Department of Defense (DoD) released the equations and source
+    code used to predict the positions of satellites around the Earth.  These simplified
+    perturbations models (SGP4) were originally written in FORTRAN IV and have since been
+    ported to C++, Java, MATLAB, and Pascal.  And now, with a JavaScript port, it's time to
+    bring satellite tracking to the browser!
+
+    In this talk we'll learn how to use existing tools to calculate and plot realtime
+    satellite positions on a map using Leaflet.js and satellite.js.  Along the way we'll
+    sneak in some orbital mechanics concepts, minus a lot of the hardcore math.
+
+    Perturbations, polar orbits, orbital eccentricity, Kepler’s laws, orbital propagation,
+    oh my!
+
+    We will also learn about the pitfalls of 2D map projections, and why a 3D projection
+    is more accurate and intuitive.  If there's time, we'll go one step further and build
+    a 3D satellite tracker using WebGL.
   bio: >
     David Calhoun is a UI engineer working at Skybox Imaging in Mountain View, using open web technology to build interfaces for satellite imagery and video processing, a satellite imagery scheduling interface, and a websocket-powered telemetry dashboard.  Prior to that he's worked on the Node.js-backed CNET mobile website, as well as Yahoo! Mobile.  He also occasionally contracts for WebMocha.
     Most recently he's lived in Kyoto, Japan for a year, which was an amazing and humbling experience.

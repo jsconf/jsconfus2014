@@ -12,6 +12,7 @@ id: speakers
   <div class='pull-right'>
   {% if speaker.smhandle %}
     <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
+      <i class='fa fa-{{speaker.smtype}}-square'></i>
       {{speaker.smhandle}}
     </a>
   {% endif %}
