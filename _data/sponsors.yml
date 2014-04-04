@@ -154,13 +154,6 @@
     We love talking shop about Backbone, node, realtime systems, and lighting
     our 100ft tall redwood tree.  Come and grab a drink with us!
 
-- name: Novus
-  visible: false
-  short: novus
-  logo:
-  url: http://www.novus.com
-  event: Beach Entertainment
-  description: >
 
 - name: Condé Nast
   visible: true
