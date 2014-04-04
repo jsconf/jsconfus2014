@@ -1,9 +1,9 @@
 - firstname: Guillaume C.
   lastname: Marty
-  visible: false
-  smurl:
-  smtype:
-  smhandle:
+  visible: true
+  smurl: https://twitter.com/g_marty
+  smtype: twitter
+  smhandle: g_marty
   title: Play DVDs in JavaScript for the sake of interoperability
   body: >
     We have everything we need to read DVD-video discs in a browser, so why
@@ -30,10 +30,10 @@
 
 - firstname: Forrest L.
   lastname: Norvell
-  visible: false
+  visible: true
   smurl: http://twitter.com/othiym23
   smtype: twitter
-  smhandle: "@othiym23"
+  smhandle: "othiym23"
   title: Learning ES6 as a Community
   body: >
     The current schedule for the completion of ECMAScript 6, the next version of
@@ -73,7 +73,7 @@
   visible: false
   smurl: http://twitter.com/jlongster
   smtype: twitter
-  smhandle: "@jlongster"
+  smhandle: "jlongster"
   title: sweet.js -- A Macro System for JavaScript
   body: >
   bio: >
@@ -86,7 +86,7 @@
   visible: false
   smurl: http://twitter.com/swannodette
   smtype: twitter
-  smhandle: "@swannodette"
+  smhandle: "swannodette"
   title:
   body: >
   bio: >
@@ -96,7 +96,7 @@
 
 - firstname: Mark
   lastname: DiMarco
-  visible: false
+  visible: true
   smurl: http://github.com/markmarkoh
   smtype:  github
   smhandle: "markmarkoh"
@@ -117,9 +117,9 @@
 
 - firstname: Nick
   lastname: Bray
-  visible: false
+  visible: true
   smurl: https://plus.google.com/u/0/112308070441027147599/posts
-  smtype: google+
+  smtype: google-plus
   smhandle:
   title: Native Code on the Web?
   body: >
@@ -157,10 +157,10 @@
 
 - firstname: Kawandeep
   lastname: Virdee
-  visible: false
+  visible: true
   smurl: http://twitter.com/whichlight
   smtype: twitter
-  smhandle: "@whichlight"
+  smhandle: "whichlight"
   title: Collaborative Real-time Interactive Art with WebRTC
   body: >
     Interactive art can be a powerful means to inspire conversations, creativity,
@@ -187,10 +187,10 @@
 
 - firstname: Guy
   lastname: Bedford
-  visible: false
+  visible: true
   smurl: http://twitter.com/guybedford
   smtype: twitter
-  smhandle: "@guybedford"
+  smhandle: "guybedford"
   title: Package Management for ES6 Modules
   body: >
     How does the transition into ES6 modules work for browsers exactly? How do
@@ -215,10 +215,10 @@
 
 - firstname: Jake
   lastname: Verbaten
-  visible: false
+  visible: true
   smurl: http://twitter.com/Raynos
   smtype: twitter
-  smhandle: "@Raynos"
+  smhandle: "Raynos"
   title: NPM-style Frontend
   body: >
     This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
@@ -239,10 +239,10 @@
 
 - firstname: Nico
   lastname: Bevacqua
-  visible: false
+  visible: true
   smurl: http://twitter.com/nzgb
   smtype: twitter
-  smhandle: "@nzgb"
+  smhandle: "nzgb"
   title: Front End Ops Tooling
   body: >
     This talk covers build tooling, processes, and your development workflow. You'll
@@ -264,10 +264,10 @@
 
 - firstname: Ryan
   lastname: Florence
-  visible: false
+  visible: true
   smurl: http://twitter.com/ryanflorence
   smtype: twitter
-  smhandle: "@ryanflorence"
+  smhandle: "ryanflorence"
   title: Embularactymerbone
   body: >
     Ember, Angular, React, Polymer, and Backbone. Following in
@@ -292,10 +292,10 @@
 
 - firstname: Kassandra
   lastname: Perch
-  visible: false
+  visible: true
   smurl: http://twitter.com/kassandra_perch
   smtype: twitter
-  smhandle: "@kassandra_perch"
+  smhandle: "kassandra_perch"
   title: Modular Application Architectures in Javascript
   body: >
     Web applications do not require an over-arching framework to be organized
@@ -323,10 +323,10 @@
 
 - firstname: Spike
   lastname: Brehm
-  visible: false
+  visible: true
   smurl: http://twitter.com/spikebrehm
   smtype: twitter
-  smhandle: "@spikebrehm"
+  smhandle: "spikebrehm"
   title: Building Isomorphic Apps
   body: >
     After building more and more rich and complex JavaScript apps at Airbnb,
@@ -362,10 +362,10 @@
 
 - firstname: Marco
   lastname: Rogers
-  visible: false
+  visible: true
   smurl: http://twitter.com/polotek
   smtype: twitter
-  smhandle: "@polotek"
+  smhandle: "polotek"
   title: Finding Patterns Across Front-end Frameworks
   body: >
     We're all building a client-side framework. And they're all different implementations
@@ -386,7 +386,7 @@
   visible: false
   smurl: http://twitter.com/segphault
   smtype: twitter
-  smhandle: "@segphault"
+  smhandle: "segphault"
   title: MontageJS, a component-oriented, CommonJS/npm based MVC framework.
   body: >
     TBD
@@ -402,7 +402,7 @@
   visible: false
   smurl: http://twitter.com/brianloveswords
   smtype: twitter
-  smhandle: "@brianloveswords"
+  smhandle: "brianloveswords"
   title:
   body: >
   bio: >
@@ -415,7 +415,7 @@
   visible: false
   smurl: http://twitter.com/bodil
   smtype: twitter
-  smhandle: "@bodil"
+  smhandle: "bodil"
   title: TBD
   body: >
     TBD
@@ -430,10 +430,10 @@
 
 - firstname: David
   lastname: Calhoun
-  visible: false
+  visible: true
   smurl: http://twitter.com/franksvalli
   smtype: twitter
-  smhandle: "@franksvalli"
+  smhandle: "franksvalli"
   title: Realtime Satellite Tracking in the Browser
   body: >
     In 1980 the United States Department of Defense (DoD) released the equations and source
@@ -459,10 +459,10 @@
 
 - firstname: Jenn
   lastname: Turner
-  visible: false
+  visible: true
   smurl: http://twitter.com/renrutnnej
   smtype: twitter
-  smhandle: "@renrutnnej"
+  smhandle: "renrutnnej"
   title: Lessons in Emotional Safety FTW
   body: >
     Emotional safety is the most important predictor of the health of an organization and a community.
@@ -523,10 +523,10 @@
 
 - firstname: Jenn
   lastname: Schiffer
-  visible: false
+  visible: true
   smurl: https://twitter.com/jennschiffer
   smtype: twitter
-  smhandle: "@jennschiffer"
+  smhandle: "jennschiffer"
   title: "What's the Harm In Sorting: Sanitizing Inputs For More Optimized JavaScript"
   body: >
     NaN

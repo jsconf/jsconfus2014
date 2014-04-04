@@ -198,3 +198,9 @@ box-shadow:         4px 4px 25px 0px rgba(50, 50, 50, 0.54);
     background-repeat: no-repeat;
     opacity: 0.7;
 }
+.speaker h3 { margin-top: 0px;}
+
+.socialmedia {
+
+    font-size: 125%;
+}

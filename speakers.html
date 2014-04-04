@@ -5,12 +5,15 @@ id: speakers
 ---
 <div class='container'>
 <h2>{{site.name}} Speakers</h2>
-
+<br/>
+<br/>
+<br/>
 {% for speaker in site.data.speakers %}
-<div class='col-md-6'>
+{% if speaker.visible %}
+<div class='col-md-12'>
 <div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
-  <div class='pull-right'>
-  {% if speaker.smhandle %}
+  <div class='pull-right socialmedia'>
+  {% if speaker.smurl %}
     <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
       <i class='fa fa-{{speaker.smtype}}-square'></i>
       {{speaker.smhandle}}
@@ -31,6 +34,6 @@ id: speakers
   </div>
 </div>
 </div>
+{% endif %}
 {% endfor %}
-
 </div>
