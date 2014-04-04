@@ -1,3 +1,35 @@
+
+- firstname: Kassandra
+  lastname: Perch
+  visible: true
+  smurl: http://twitter.com/kassandra_perch
+  smtype: twitter
+  smhandle: "kassandra_perch"
+  title: Modular Application Architectures in Javascript
+  body: >
+    Web applications do not require an over-arching framework to be organized
+    and maintainable. In fact, an application with modules from all over the
+    place can in fact be maintainable, understandable, and encouraged. Instead
+    of subscribing to one framework that provides developers with an entire
+    slew of unused or unneeded functionality, an architecture can be built
+    from the ground up using small modules from a variety of different sources.
+    This kind of architecture is taking off in the Node community, and is
+    starting to make its way in client-side javascript. This talk explores
+    the differences between using a formal framework- like Ember, Backbone,
+    Express, or Sails- and using a modular approach. Frameworks are not
+    entirely out of the picture- there are a few examples of frameworks that
+    encourage this kind of architecture by providing minimal structure in
+    the right places. This talk will explore those frameworks, and the
+    general ideas, benefits, and possible pitfalls of a modular architecture,
+    from both the client and server-side perspective.
+  bio: >
+    Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days
+    are spent at RetailMeNot, where she slings javascript and tries to make
+    developer processes easier. her nights and weekends are spent slinging more
+    javascript, teaching for Girl Develop It!, and re-learning how to roller
+    skate. She's an unrepentant JS addict- and is especially interested in JS
+    robotics/hardware.
+
 - firstname: Guillaume C.
   lastname: Marty
   visible: true
@@ -289,37 +321,6 @@
     writing plugins, contributing to popular JavaScript libraries, speaking at
     conferences & meet-ups, and writing about it on the web. I work as the
     JavaScript guy at Instructure.
-
-- firstname: Kassandra
-  lastname: Perch
-  visible: true
-  smurl: http://twitter.com/kassandra_perch
-  smtype: twitter
-  smhandle: "kassandra_perch"
-  title: Modular Application Architectures in Javascript
-  body: >
-    Web applications do not require an over-arching framework to be organized
-    and maintainable. In fact, an application with modules from all over the
-    place can in fact be maintainable, understandable, and encouraged. Instead
-    of subscribing to one framework that provides developers with an entire
-    slew of unused or unneeded functionality, an architecture can be built
-    from the ground up using small modules from a variety of different sources.
-    This kind of architecture is taking off in the Node community, and is
-    starting to make its way in client-side javascript. This talk explores
-    the differences between using a formal framework- like Ember, Backbone,
-    Express, or Sails- and using a modular approach. Frameworks are not
-    entirely out of the picture- there are a few examples of frameworks that
-    encourage this kind of architecture by providing minimal structure in
-    the right places. This talk will explore those frameworks, and the
-    general ideas, benefits, and possible pitfalls of a modular architecture,
-    from both the client and server-side perspective.
-  bio: >
-    Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days
-    are spent at RetailMeNot, where she slings javascript and tries to make
-    developer processes easier. her nights and weekends are spent slinging more
-    javascript, teaching for Girl Develop It!, and re-learning how to roller
-    skate. She's an unrepentant JS addict- and is especially interested in JS
-    robotics/hardware.
 
 - firstname: Spike
   lastname: Brehm
