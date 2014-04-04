@@ -105,13 +105,34 @@
   visible: false
   smurl: http://twitter.com/jlongster
   smtype: twitter
-  smhandle: "jlongster"
-  title: sweet.js -- A Macro System for JavaScript
+  smhandle:"jlongster"
+  title: Unshackling JavaScript with Macros
   body: >
+    JavaScript is thriving, but the language itself is shackled to the
+    long process of ECMA standardization and implementation in all
+    engines. We have to wait many years for a simple feature like variable
+    destructuring.
+
+    Macros allow you to extend a language with new syntax and semantics,
+    just like you would build new APIs on top of native ones. There's no
+    reason the language itself shouldn't be extensible, which allows it to
+    grow naturally.
+
+    sweet.js is a project that implements robust hygienic macros for
+    JavaScript. I will explain how this works and why it's such an
+    exciting idea. I will show how you can already have ES6 variable
+    destructuring, classes, fat arrow syntax, and more just with a few
+    macros. In addition, you can use things like function tracing, native
+    pattern matching, better assertions (logs contain the original
+    expression), and much more. sweet.js macros track the original source
+    location and generates sourcemaps, so debug away like normal! Let's
+    unshackle ourselves from the mire of standardization, and take control
+    of the language we love!
   bio: >
-    I love programming language research, and hack on compilers and games in my free time.
-    During the day I work for Mozilla on tools for writing webapps. I achieved the ultimate
-    yak-shake: spent 3 months building my own desk before I could work on some code.
+    I love programming language research, and hack on compilers and games
+    in my free time. During the day I work for Mozilla on the Developer
+    Tools. I achieved the ultimate yak-shave: spent 3 months building my
+    own desk before I could work on some code.
 
 - firstname: David
   lastname: Nolen
@@ -193,7 +214,8 @@
   smurl: http://twitter.com/whichlight
   smtype: twitter
   smhandle: "whichlight"
-  title: Collaborative Real-time Interactive Art with WebRTC
+  title: Open Web Art: JavaScript for Interactive, Collaborative, and Hackable Art
+
   body: >
     Interactive art can be a powerful means to inspire conversations, creativity,
     and wonder among groups of people. It is now easier to build interactive and
@@ -228,7 +250,7 @@
     How does the transition into ES6 modules work for browsers exactly? How do
     we enable modular version-managed front-end architecture in the process?
 
-    [jspm](https://jspm.io) provides almost-magical™ package management for JavaScript
+    [jspm](https://jspm.io) provides almost-magical package management for JavaScript
     built around the principles of version-managed ES6-modules and the dynamic ES6 module
     loader from the core.
 
