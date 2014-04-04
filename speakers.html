@@ -26,7 +26,7 @@ id: speakers
   </div>
   <div class='talk'>
     <div class='title'>{{speaker.title}}</div>
-    {{speaker.body}}
+    {{speaker.body | markdownify}}
   </div>
   <div class='bio'>
     <div class='title'>Meet {{speaker.firstname}}</div>

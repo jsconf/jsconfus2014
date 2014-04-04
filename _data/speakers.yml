@@ -13,6 +13,8 @@
     of subscribing to one framework that provides developers with an entire
     slew of unused or unneeded functionality, an architecture can be built
     from the ground up using small modules from a variety of different sources.
+
+
     This kind of architecture is taking off in the Node community, and is
     starting to make its way in client-side javascript. This talk explores
     the differences between using a formal framework- like Ember, Backbone,
@@ -41,17 +43,21 @@
     We have everything we need to read DVD-video discs in a browser, so why
     don’t we start?
 
+
     For that purpose, I ported libdvdread and libdvdnav libraries to
     JavaScript so that we can parse the DVD-video info files and emulate
     a virtual machine.
+
 
     But this comes with technical challenges such as browsers being bad
     at manipulating huge files or not supporting the codecs used in DVD
     (MPEG-2, AC-3...). That’s why this port comes with a server in Node.js
     to circumvent these limitations.
 
+
     The resulting project is a mix of websockets, video elements, media
     source extensions and a lot of open source love.
+
 
     Get ready for a mind blowing demo!
   bio: >
@@ -77,6 +83,7 @@
     change to JavaScript since ES4 (which didn't work out that great, as most users of
     ES5 are aware).
 
+
     With this much change comes a lot of complexity. Many of the new features
     (like generators or proxies) are powerful, basic abstractions, and as such
     combine in complex (and potentially unexpected) ways. In many ways, a new version
@@ -85,11 +92,13 @@
     choosing their own combinations of features to build powerful (and complicated)
     architectures that can really only be understood on their own terms.
 
+
     However, as a community we've learned a lot over the last half decade or so, and
     I think we've learned how to tackle this problem head on. I've come up with a
     strategy that I think would allow us to collaboratively get to a good place with
     ES6 relatively quickly. I'll go over this strategy and point to the areas where
     I think we ought to spend the most time to get the most positive results.
+
 
     It's up to us – as a community of designers, developers, and implementors – to
     get out in front and provide tooling, documentation, and training that will
@@ -113,10 +122,12 @@
     engines. We have to wait many years for a simple feature like variable
     destructuring.
 
+
     Macros allow you to extend a language with new syntax and semantics,
     just like you would build new APIs on top of native ones. There's no
     reason the language itself shouldn't be extensible, which allows it to
     grow naturally.
+
 
     sweet.js is a project that implements robust hygienic macros for
     JavaScript. I will explain how this works and why it's such an
@@ -176,6 +187,7 @@
     Or use an awesome library in your web app, but it’s written in C++?  Well... you can.
     Almost.  Maybe.  Sometimes.  Sort of.  Many disclaimers and restrictions apply.
     But what will it take for the answer to just be "yes"?
+
 
     This talk will dive deep into the world of native code on the web, compiling C++ into
     JavaScript, and look at the gaps that need to be filled.  A number of intertwined topics
@@ -244,9 +256,11 @@
     How does the transition into ES6 modules work for browsers exactly? How do
     we enable modular version-managed front-end architecture in the process?
 
-    [jspm](https://jspm.io) provides almost-magical package management for JavaScript
+
+    [jspm](http://jspm.io) provides almost-magical package management for JavaScript
     built around the principles of version-managed ES6-modules and the dynamic ES6 module
     loader from the core.
+
 
     In short, jspm starts off by making ES6 modules work dynamically in browsers today
     through the dynamic ES6 Module Loader polyfilll, then we make all existing module
@@ -271,11 +285,14 @@
   body: >
     This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
 
+
     The NPM-style frontend prefers modularity and simple abstractions that do one thing well.  THis talk includes:
-    * Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
-    * How to compose various modules together to build your own "framework" with your own trade offs.
-    * How to compose an application from smaller applications
-    * Build small UI components with thin interfaces that you glue together in your application.
+
+     * Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
+     * How to compose various modules together to build your own "framework" with your own trade offs.
+     * How to compose an application from smaller applications
+     * Build small UI components with thin interfaces that you glue together in your application.
+
 
     Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.
   bio: >
@@ -297,6 +314,8 @@
     get a glimpse as to why you should be building, and why you should put together a
     build process from the get-go. Then we'll move on to tooling. Here I'll discuss
     some of the most popular JavaScript build tools, namely Grunt, Gulp, and npm.
+
+
     We'll investigate how each one performs for certain tasks, and I'll help you forge
     your own build sword. Lastly, I'll discuss the benefits of going for the module
     format Node.js uses, which is Common.js, and how you can leverage those modules
@@ -322,9 +341,11 @@
     jQuery's footsteps, these projects (and others) are helping to drive
     some future APIs in the browser.
 
+
     While they all get lumped into the category "Frontend MVC", an intimate
     look at each reveals they are quite different. These stark and subtle
     differences matter when choosing one for your project.
+
 
     In this session, you'll see each project's sweet spot, and where each
     struggles. You'll get a healthy dose of code as we explore the primary
@@ -352,11 +373,13 @@
     code duplication and the lack of server-side rendering led to slow initial
     page load performance and SEO headaches.
 
+
     The dream of a shared UI layer and reusable business logic led us to start
     experimenting with ways to bring these apps back to the server.  We started
     by converting our mobile web site, a Backbone app, to also run on Node.js and
     Express, which led to the open-source Rendr library.  Since then we’ve learned
     a lot and have begun to refine our understanding of "isomorphic JavaScript".
+
 
     There are a wide range of approaches which might be considered
     "isomorphic" — an app could share just a few tiny modules of business logic, or
@@ -364,6 +387,7 @@
     The more code that is shared, the more abstractions have to be built to shim the differences
     between the very dissimilar environments of web browser and server, and the more
     complex and tightly-coupled the result will be.
+
 
     This talk will give some broader context for isomorphic JavaScript, show some real world
     examples, explain common application patterns for isomorphic apps, and then dive into the
@@ -459,12 +483,15 @@
     ported to C++, Java, MATLAB, and Pascal.  And now, with a JavaScript port, it's time to
     bring satellite tracking to the browser!
 
+
     In this talk we'll learn how to use existing tools to calculate and plot realtime
     satellite positions on a map using Leaflet.js and satellite.js.  Along the way we'll
     sneak in some orbital mechanics concepts, minus a lot of the hardcore math.
 
+
     Perturbations, polar orbits, orbital eccentricity, Kepler’s laws, orbital propagation,
     oh my!
+
 
     We will also learn about the pitfalls of 2D map projections, and why a 3D projection
     is more accurate and intuitive.  If there's time, we'll go one step further and build
@@ -486,10 +513,12 @@
     But more importantly, it has a enduring repercussions on our lives as individuals.
     Like, our real lives—the ones we live for our whole lives.
 
+
     I've worked in intensely unsafe professional environments prior to joining the team at [&yet](https://andyet.com/).
     I'd like to candidly share some of the lessons I've learned from my unique perspective as a female who isn't a
     software developer but who spends much of her life around them
     (including co-organizing events like RealtimeConf, RedisConf, and TriConf).
+
 
     Being "in the developer world but not of it" has given me perspective to identify blind spots within
     our culture as a company and a community. Traditionally copywriters on a software team are viewed as a
@@ -500,6 +529,7 @@
     By day, Jenn works at [&yet](http://andyet.com) as the Chief Jenn Officer,
     contributing to the departments of marketing, design, editorial, internal
     affairs, conference organization, awesome, and user experience.
+
 
     By night, she spends her time tweeting sporadically as
     [@renrutnnej](http://twitter.com/renrutnnej), starts the beginnings of many,
