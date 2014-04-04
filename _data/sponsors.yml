@@ -325,12 +325,13 @@
     outputs for Android and iOS in a same time.see less
 
 - name: Sentry
-  visible: false
+  visible: true
   short: sentry
-  logo:
+  logo: sentry.jpg
   url: http://www.getsentry.com
   event:
   description: >
+    Sentry notifies you when your users experience errors. The platform is open source, and supports nearly all modern languages, including Python, PHP, Java, Ruby, Node.js, and JavaScript.
 
 - name: BitHound
   visible: true
