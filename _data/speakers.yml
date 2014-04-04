@@ -523,7 +523,7 @@
 
 - firstname: Jenn
   lastname: Schiffer
-  visible: true
+  visible: false
   smurl: https://twitter.com/jennschiffer
   smtype: twitter
   smhandle: "jennschiffer"
