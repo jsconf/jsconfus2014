@@ -163,6 +163,8 @@ h1 { margin-bottom: 1.5em;}
 
 .well.hover .boom { color: #b5371a;}
 
+.busschedule {  margin: 1em auto;}
+.busschedule td { width: 250px; text-align: center;font-weight: bold; font-size: 200%;}
 .sponsors { margin-top: 1.5em; }
 
 .speaker, .sponsor {padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid #246f84;}

@@ -40,7 +40,7 @@
   description: >
 
 - name: PayPal
-  visible: false
+  visible: true
   short: paypal
   logo: paypal.png
   url: http://www.paypal.com
@@ -120,7 +120,7 @@
     and deliver quality results on time.
 
 - name: Yammer
-  visible: true
+  visible: false
   short: yammer
   logo: yammer.png
   url: https://www.yammer.com
@@ -154,13 +154,6 @@
     We love talking shop about Backbone, node, realtime systems, and lighting
     our 100ft tall redwood tree.  Come and grab a drink with us!
 
-- name: Novus
-  visible: false
-  short: novus
-  logo:
-  url: http://www.novus.com
-  event: Beach Entertainment
-  description: >
 
 - name: Condé Nast
   visible: true
@@ -250,7 +243,7 @@
     embedded into applications whether existing or built new on Twilio.
 
 - name: Meteor
-  visible: false
+  visible: true
   short: meteor
   logo: meteor.png
   url: http://www.meteor.com
@@ -302,7 +295,7 @@
   description: >
 
 - name: SmartFace
-  visible: false
+  visible: true
   short: smartface
   logo: smartface.png
   url: http://www.smartface.io
@@ -340,7 +333,7 @@
   description: >
 
 - name: BitHound
-  visible: false
+  visible: true
   short: bithound
   logo: bithound.jpg
   url: http://www.bithound.io
