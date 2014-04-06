@@ -464,8 +464,12 @@
   smurl: http://twitter.com/brianloveswords
   smtype: twitter
   smhandle: "brianloveswords"
-  title:
+  title: Being Human
   body: >
+    We spend so much time building things that we sometimes forget that
+    we're building for, and with, other complex human beings. Remembering
+    that we are people first is the first step to making a positive shift in
+    the way we treat each other.
   bio: >
     Brian is a bassist, an event organizer of BrooklynJS, a mentor of NodeSchool,
     and a cat owner. When he's not being one of those other things, he's a software
@@ -564,9 +568,9 @@
 - firstname: Travell
   lastname: Perkins
   visible: false
-  smurl:
-  smtype:
-  smhandle:
+  smurl: https://twitter.com/travellperkins
+  smtype: twitter
+  smhandle: travellperkins
   title: Battle Hardened Node.js for the Enterprise
   body: >
     What does enterprise grade server-side Javascript look like?   Do you work at a large org over 2000 people that probably is a Java or .Net shop?  Could you be better served leveraging the cloud and the vibrant Node.js community for some projects?  Do you need to convince your boss?
