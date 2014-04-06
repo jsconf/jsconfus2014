@@ -464,8 +464,12 @@
   smurl: http://twitter.com/brianloveswords
   smtype: twitter
   smhandle: "brianloveswords"
-  title:
+  title: Being Human
   body: >
+    We spend so much time building things that we sometimes forget that
+    we're building for, and with, other complex human beings. Remembering
+    that we are people first is the first step to making a positive shift in
+    the way we treat each other.
   bio: >
     Brian is a bassist, an event organizer of BrooklynJS, a mentor of NodeSchool,
     and a cat owner. When he's not being one of those other things, he's a software
@@ -477,9 +481,12 @@
   smurl: http://twitter.com/bodil
   smtype: twitter
   smhandle: "bodil"
-  title: TBD
+  title: Reactive Game Development For The Discerning Hipster
   body: >
-    TBD
+    To most people in JS, functional programmers are perceived as academic hipsters raving about things like applicative functors, semigroup homomorphisms and Yoneda lemmas for no good reason except to make the rest of us feel stupid. And this is fair; there's no better way to make you feel pitifully mainstream than throwing category theory at you. Conversely, JS programmers tend to believe functional programming, therefore, can have no real world application because nobody in the real world has any idea what a Yoneda lemma is and they seem to be getting by just fine without it.
+
+
+    Except we aren't. We've been living in callback hell for almost two decades now, and no matter how many control flow libraries we submit to npm, things don't seem to be getting any better. And that's where functional programming comes in—turns out callbacks are just functions, and those academics in their ivory towers with their Haskell compilers actually encountered and solved these problems long ago. And now we can have their solutions in JS too, because of functional reactive programming. To demonstrate, I'll attempt to write a browser based game, from scratch, with ponies, using RxJS, everybody's favourite reactive library, live on stage in 30 minutes with no callback hell in sight. And we'll be finding out if this reactive stuff is all it's cracked up to be or not.
   bio: >
     Bodil is a compulsive conference speaker in the fields of functional programming
     and internets technologies, and is a co-organiser of multiple developer conferences
@@ -534,7 +541,9 @@
     Like, our real lives—the ones we live for our whole lives.
 
 
-    I've worked in intensely unsafe professional environments prior to joining the team at [&yet](https://andyet.com/).
+    I've worked in intensely unsafe professional environments prior to joining the team at [&yet](http://andyet.com/).
+
+
     I'd like to candidly share some of the lessons I've learned from my unique perspective as a female who isn't a
     software developer but who spends much of her life around them
     (including co-organizing events like RealtimeConf, RedisConf, and TriConf).
@@ -559,14 +568,37 @@
 - firstname: Travell
   lastname: Perkins
   visible: false
-  smurl:
-  smtype:
-  smhandle:
-  title:
+  smurl: https://twitter.com/travellperkins
+  smtype: twitter
+  smhandle: travellperkins
+  title: Battle Hardened Node.js for the Enterprise
   body: >
+    What does enterprise grade server-side Javascript look like?   Do you work at a large org over 2000 people that probably is a Java or .Net shop?  Could you be better served leveraging the cloud and the vibrant Node.js community for some projects?  Do you need to convince your boss?
+
+
+    At Fidelity we have several security/quality checkpoints across many departments to validate that applications and platforms protect customer data.  Security code reviews, penetration test, risk audits, legal compliance and many other factors go into signing off on  an application.  Fidsafe is a new virtual safe deposit box offering by Fidelity that is the first application to be served outside the Fidelity firewall on the cloud.  Fidsafe challenges every aspect of how the organization builds and deploys software.  We had to answer a lot of questions and provide practical tooling/solutions to get Node into production.
+
+
+    We will cover what it takes from top to bottom build and operate a secure and scalable service backend implemented in Node.js and deployed to AWS.  Topics covered:
+
+
+    * Node Process Management
+      * Lifecycle management – Upstart and Forever
+      * Smart defaults for scalability and uptime
+      * Reactor — How we use cluster to scale across cores
+    * Hardened Express
+      * End to End Javascript — CouchDB / MongoDB
+      * Layering security using middleware
+      * Strategies for bulletproof cookies
+      * SSL termination strategies
+      * Authenticating end-users and API consumers
+    * Building a Secure PaaS — A brief overview
+      * If you want it to be secure you have to build your own. What's the minimum you need for Node?
+      * Devops in across organizational boundaries — AWS, Python, Boto, AMIs, and Asgard
+      * Ubuntu as PaaS — real solutions are diverse and polyglot
+
   bio: >
-    Travell is a classically trained computer scientist; he tries to go beyond just getting things working. He has skills and passion in the areas of financial services, consumer internet, digital media, cloud computing, sustainability, and everything startups.
-    Travell is currently the CTO of Fidsafe, an online safe deposit box offered by Fidelity. Travell has been hacking since he was in the 6th grade.  He holds degrees in computer science and business from MIT and BU respectively.
+    Travell is a CTO at Fidelity Investments and is a leading evangelist for wide spread adoption of Node.js within the organization.  He delivered Fidsafe, a virtual safe deposit box to market for the organization and is now applying Node and other Javascript technologies to more core offerings.  Travell has over 10 years of experience building systems for financial services and enjoys stock portfolio management in his spare time.  Other hobbies include cycling, fast cars,  zombies, tech blogs, and hacking on side projects. Travell works and plays in Downtown Boston, you can follow him @travellperkins
 
 - firstname: Neil
   lastname: Green
@@ -576,18 +608,15 @@
   smhandle:
   title: Writing Custom DSLs
   body: >
-  bio: >
-    Neil works as a lead developer at IntercontinentalExchange (ICE), a
-    financial and commodities exchange.   He is the UI architect of ICE's
-    social, messaging, and app integration platform, and lead implementer of the
-    platform's core systems.   Neil's true passion lies in coaching engineers on
-    the practical application of software engineering and architectural design
-    principles through coding competitions and extreme code reviews.   He finds
-    it amusing that Java developers are celebrating the arrival of lambdas 15
-    years after JavaScript had them.  In his spare time, Neil channels his
-    appreciation for caffeine into the daily refactoring of his French pressed
-    coffee making technique.
+    When writing complex business logic, it is critically important to maintain clean code though the judicious applications of Test Driven Development and Domain Driven Design.  However, even these powerful techniques fall short of solving the problem at the heart of building complex software: building what the customer actually wants.
 
+
+    Domain Specific Languages (DSLs) allow us to capture complex business requirements in code written in the language of the customer.  Once an ubiquitous language between you and your customer is defined and implemented as a DSL, the code can quite literally be given back to the customer to edit and refine.   This is not a theory, or a myth.  I have done this under real-world constraints and deadlines, and you can as well.
+
+
+    JavaScript's ability to blend Object Oriented and Functional Programming paradigms makes it an ideal language for authoring custom DSLs.  Unfortunately, too often developers are unclear on how to identify when a custom DSL is an appropriate solution, and when it is, how to go about writing one.  I will take you through the process of developing a few different custom DSLs from planning to implementation, as well as how to performance tune and debug your new custom language.   My hope is that you will gain a powerful tool for managing complex software that will keep you sane, and your customers happy.
+  bio: >
+    Neil works as a lead developer at IntercontinentalExchange (ICE), a global network of exchanges and clearing houses for financial and commodity markets, which recently acquired the New York Stock Exchange.  He is the UI architect of ICE's social, messaging, and app integration platform, and lead implementer of the platform's core systems.  Neil's true passion lies in coaching engineers on the practical application of software engineering and architectural design principles under the real-world situations common in developing mission-critical enterprise software.
 - firstname: Jenn
   lastname: Schiffer
   visible: false
