@@ -202,6 +202,10 @@ box-shadow:         4px 4px 25px 0px rgba(50, 50, 50, 0.54);
 }
 .speaker h3 { margin-top: 0px;}
 
+.nav>li {
+ padding-left: 1em;
+}
+
 .socialmedia {
 
     font-size: 125%;
