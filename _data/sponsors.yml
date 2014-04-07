@@ -109,15 +109,16 @@
 - name: Atlassian
   visible: false
   short: atlassian
-  logo:
+  logo: atlassian.png
   url: http://www.atlassian.com
   event: NodeRockets
   description: >
     Atlassian products help innovators everywhere plan, build and launch great
-    software. More than 24,000 large and small organizations – including
-    Citigroup, eBay, Netflix and Nike – use Atlassian’s agile project
-    management, collaboration and software-development products to work smarter
-    and deliver quality results on time.
+    software. More than 33,000 large and small organizations – including
+    Citigroup, eBay, Coca-Cola, Netflix and United Airlines – use Atlassian’s
+    issue tracking, collaboration and software-development products to work
+    smarter and deliver quality results on time. Learn more at
+    [http://atlassian.com](http://atlassian.com).
 
 - name: Yammer
   visible: false
