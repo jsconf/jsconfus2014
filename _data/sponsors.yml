@@ -187,10 +187,19 @@
 - name: Sauce Labs
   visible: false
   short: saucelabs
-  logo:
+  logo: sauce_labs.png
   url: http://www.saucelabs.com
   event: Pool Entertainment
   description: >
+    Sauce’s cloud-based service allows developers to automatically or
+    interactively test mobile and web applications on more than 300 browsers
+    and platforms including iOS, Android & Mac OS X. With built-in video
+    recording of every test, debugging tools and secure tunneling for local or
+    firewalled testing, Sauce makes running, debugging and scaling test suites
+    easier than ever. Sauce supports automated functional testing with Selenium
+    and Javascript unit testing in all the popular programming languages,
+    frameworks and CI systems. For more information, visit
+    [saucelabs.com](http://www.saucelabs.com).
 
 - name: Pebble
   visible: false
