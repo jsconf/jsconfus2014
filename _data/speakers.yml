@@ -111,7 +111,7 @@
 
 - firstname: James
   lastname: Long
-  visible: false
+  visible: true
   smurl: http://twitter.com/jlongster
   smtype: twitter
   smhandle: jlongster
@@ -147,7 +147,7 @@
 
 - firstname: David
   lastname: Nolen
-  visible: false
+  visible: true
   smurl: http://twitter.com/swannodette
   smtype: twitter
   smhandle: "swannodette"
@@ -222,7 +222,7 @@
 
 - firstname: Christoph
   lastname: Burgmer
-  visible: false
+  visible: true
   smurl: http://github.com/cburgmer
   smtype: github
   smhandle: cburgmer
@@ -444,7 +444,7 @@
 
 - firstname: Ryan
   lastname: Paul
-  visible: false
+  visible: true
   smurl: http://twitter.com/segphault
   smtype: twitter
   smhandle: "segphault"
@@ -460,7 +460,7 @@
 
 - firstname: Brian J.
   lastname: Brennan
-  visible: false
+  visible: true
   smurl: http://twitter.com/brianloveswords
   smtype: twitter
   smhandle: "brianloveswords"
@@ -477,7 +477,7 @@
 
 - firstname: Bodil
   lastname: Stokke
-  visible: false
+  visible: true
   smurl: http://twitter.com/bodil
   smtype: twitter
   smhandle: "bodil"
@@ -567,7 +567,7 @@
 
 - firstname: Travell
   lastname: Perkins
-  visible: false
+  visible: true
   smurl: https://twitter.com/travellperkins
   smtype: twitter
   smhandle: travellperkins
@@ -602,7 +602,7 @@
 
 - firstname: Neil
   lastname: Green
-  visible: false
+  visible: true
   smurl:
   smtype:
   smhandle:
@@ -619,7 +619,7 @@
     Neil works as a lead developer at IntercontinentalExchange (ICE), a global network of exchanges and clearing houses for financial and commodity markets, which recently acquired the New York Stock Exchange.  He is the UI architect of ICE's social, messaging, and app integration platform, and lead implementer of the platform's core systems.  Neil's true passion lies in coaching engineers on the practical application of software engineering and architectural design principles under the real-world situations common in developing mission-critical enterprise software.
 - firstname: Jenn
   lastname: Schiffer
-  visible: false
+  visible: true
   smurl: https://twitter.com/jennschiffer
   smtype: twitter
   smhandle: "jennschiffer"
