@@ -200,13 +200,6 @@
   event: Scavenger Hunt
   description: >
 
-- name: Cox Media Group
-  visible: false
-  short: cox
-  logo:
-  url: http://www.cox.com
-  event: Campfires
-  description: >
 
 - name: Adobe
   visible: true
