@@ -228,7 +228,10 @@
   smhandle: cburgmer
   title: Hacking a HTML renderer in plain browser-side JS
   body: >
-    TBD
+    How do you get the browser to render arbitrary HTML to a canvas? Sounds easy? We would beg to disagree.
+
+
+    While implementing an “HTML renderer” in pure JavaScript we will visit various areas of the modern browsers. Some ugly, some hacky, some really perverted, but definitely intriguing and powerful.
   bio: >
     I love building things around software. Much of it in JavaScript for the web.
     You'll find me hacking on Open Source while either contributing here, or
@@ -445,9 +448,9 @@
   smurl: http://twitter.com/segphault
   smtype: twitter
   smhandle: "segphault"
-  title: MontageJS, a component-oriented, CommonJS/npm based MVC framework.
+  title: Composing frontend Web applications with MontageJS
   body: >
-    TBD
+    MontageJS is an open source framework for building large single-page Web applications. The framework's unique component model can simplify frontend Web development and increase opportunities for code reuse. In this session, you will learn how to take advantage of the MontageJS component system to build modular Web apps that are easy to maintain as they grow. The presentation will illustrate how component-based composability strengthens frontend Web development.
   bio: >
     Ryan Paul is head of Developer Relations at Montage Studio, a startup dedicated
     to helping developers build large frontend Web applications with reusable
