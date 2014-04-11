@@ -180,10 +180,24 @@
 - name: Heroku
   visible: false
   short: heroku
-  logo:
+  logo: heroku.png
   url: http://www.heroku.com
   event: Bike Rentals
   description: >
+    Heroku (pronounced her-OH-koo) is a cloud application platform – a new way
+    of building and deploying web apps. Developers can focus 100% on  code and
+    never think about servers, instances, or VMs again. Heroku lets you run any
+    application from simple to complex, from Ruby, Java, Python, Node.JS or
+    Clojure.
+
+
+    Heroku takes full responsibility for your app's health, keeping it up and
+    running through thick and thin, while you manage and command your app with
+    a full set of control surface APIs.
+
+
+    Hundreds of thousands of developers have deployed millions of apps to
+    Heroku already.
 
 - name: Sauce Labs
   visible: false
