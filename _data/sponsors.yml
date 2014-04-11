@@ -32,7 +32,7 @@
     partners, and employees in entirely new ways.
 
 - name: Microsoft
-  visible: false
+  visible: true
   short: microsoft
   logo: microsoft.png
   url: http://www.microsoft.com
@@ -123,7 +123,7 @@
   description: >
 
 - name: Atlassian
-  visible: false
+  visible: true
   short: atlassian
   logo: atlassian.png
   url: http://www.atlassian.com
@@ -137,7 +137,7 @@
     [http://atlassian.com](http://atlassian.com).
 
 - name: Yammer
-  visible: false
+  visible: true
   short: yammer
   logo: yammer.png
   url: https://www.yammer.com
@@ -194,7 +194,7 @@
     [@CondeNastCareer](http://www.twitter.com/CondeNastCareer)
 
 - name: Heroku
-  visible: false
+  visible: true
   short: heroku
   logo: heroku.png
   url: http://www.heroku.com
@@ -216,7 +216,7 @@
     Heroku already.
 
 - name: Sauce Labs
-  visible: false
+  visible: true
   short: saucelabs
   logo: sauce_labs.png
   url: http://www.saucelabs.com
@@ -233,7 +233,7 @@
     [saucelabs.com](http://www.saucelabs.com).
 
 - name: Pebble
-  visible: false
+  visible: true
   short: pebble
   logo: pebble.png
   url: http://www.getpebble.com
