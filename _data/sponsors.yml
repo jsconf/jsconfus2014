@@ -38,6 +38,22 @@
   url: http://www.microsoft.com
   event: Opening Party
   description: >
+    Founded in 1975, Microsoft is the worldwide leader in software, services
+    and solutions that help people and businesses realize their full potential.
+
+
+    Microsoft is a proud supporter of JSConf and their work to spotlight the
+    new faces and ideas in our JavaScript community.  Come join us on the beach
+    for the Microsoft sponsored welcome reception Tues May 27th 6-9PM.  Connect
+    with your friends, peers and meet new people.
+
+
+    Be sure to also check out the free web interoperability tools on
+    [http://modern.IE](http://modern.IE).  We have free Windows virtual
+    machines for both Macs and PCs and a complementary 3 month cloud-based
+    browser testing tool from our friends at BrowserStack ($120 value). All
+    these resources in a single place to help you build a more interoperable
+    web.
 
 - name: PayPal
   visible: true
