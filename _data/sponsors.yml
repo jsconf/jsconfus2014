@@ -388,7 +388,22 @@
 - name: Willow Tree Apps
   visible: false
   short: willowtree
-  logo:
+  logo: willowtree.png
   url: http://www.willowtreeapps.com
   event:
   description: >
+    Much more than a mobile app development company – WillowTree Apps is a new
+    breed mobile engagement partner focused on creating great software to
+    improve users’ lives. We work with clients such as GE, Johnson & Johnson
+    and the NBA to create the best mobile experience possible.  WillowTree
+    excels at bleeding-edge projects that allow us to push boundaries and
+    challenge ourselves to keep evolving.
+
+
+    How do we do it? We hire the smartest and most passionate people in the
+    industry and give them what they need to keep growing and learning. We have
+    all the perks of other leading development shops, but what makes us unique
+    is a “maker” culture that gives great designers and developers the freedom
+    to produce incredible results.  Say no to meetings, paperwork and middle
+    management, and yes to building great things.
+
