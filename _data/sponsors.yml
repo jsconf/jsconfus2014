@@ -109,15 +109,16 @@
 - name: Atlassian
   visible: false
   short: atlassian
-  logo:
+  logo: atlassian.png
   url: http://www.atlassian.com
   event: NodeRockets
   description: >
     Atlassian products help innovators everywhere plan, build and launch great
-    software. More than 24,000 large and small organizations – including
-    Citigroup, eBay, Netflix and Nike – use Atlassian’s agile project
-    management, collaboration and software-development products to work smarter
-    and deliver quality results on time.
+    software. More than 33,000 large and small organizations – including
+    Citigroup, eBay, Coca-Cola, Netflix and United Airlines – use Atlassian’s
+    issue tracking, collaboration and software-development products to work
+    smarter and deliver quality results on time. Learn more at
+    [http://atlassian.com](http://atlassian.com).
 
 - name: Yammer
   visible: false
@@ -179,26 +180,56 @@
 - name: Heroku
   visible: false
   short: heroku
-  logo:
+  logo: heroku.png
   url: http://www.heroku.com
   event: Bike Rentals
   description: >
+    Heroku (pronounced her-OH-koo) is a cloud application platform – a new way
+    of building and deploying web apps. Developers can focus 100% on  code and
+    never think about servers, instances, or VMs again. Heroku lets you run any
+    application from simple to complex, from Ruby, Java, Python, Node.JS or
+    Clojure.
+
+
+    Heroku takes full responsibility for your app's health, keeping it up and
+    running through thick and thin, while you manage and command your app with
+    a full set of control surface APIs.
+
+
+    Hundreds of thousands of developers have deployed millions of apps to
+    Heroku already.
 
 - name: Sauce Labs
   visible: false
   short: saucelabs
-  logo:
+  logo: sauce_labs.png
   url: http://www.saucelabs.com
   event: Pool Entertainment
   description: >
+    Sauce’s cloud-based service allows developers to automatically or
+    interactively test mobile and web applications on more than 300 browsers
+    and platforms including iOS, Android & Mac OS X. With built-in video
+    recording of every test, debugging tools and secure tunneling for local or
+    firewalled testing, Sauce makes running, debugging and scaling test suites
+    easier than ever. Sauce supports automated functional testing with Selenium
+    and Javascript unit testing in all the popular programming languages,
+    frameworks and CI systems. For more information, visit
+    [saucelabs.com](http://www.saucelabs.com).
 
 - name: Pebble
   visible: false
   short: pebble
-  logo:
+  logo: pebble.png
   url: http://www.getpebble.com
   event: Scavenger Hunt
   description: >
+    Launched on Kickstarter in 2012 as the most successful crowdfunding
+    campaign to date, Pebble is the most widely available smartwatch on the
+    market. Pebble is amazing thanks to the thousands of developers who are
+    building apps for it. And of course JavaScript is one of the most popular
+    option! More info on developer.getpebble.com and simplyjs.io! We will be
+    around JSConf and happy to help you get started or tackle some more
+    advanced problems!
 
 
 - name: Adobe
