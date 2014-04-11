@@ -38,6 +38,22 @@
   url: http://www.microsoft.com
   event: Opening Party
   description: >
+    Founded in 1975, Microsoft is the worldwide leader in software, services
+    and solutions that help people and businesses realize their full potential.
+
+
+    Microsoft is a proud supporter of JSConf and their work to spotlight the
+    new faces and ideas in our JavaScript community.  Come join us on the beach
+    for the Microsoft sponsored welcome reception Tues May 27th 6-9PM.  Connect
+    with your friends, peers and meet new people.
+
+
+    Be sure to also check out the free web interoperability tools on
+    [http://modern.IE](http://modern.IE).  We have free Windows virtual
+    machines for both Macs and PCs and a complementary 3 month cloud-based
+    browser testing tool from our friends at BrowserStack ($120 value). All
+    these resources in a single place to help you build a more interoperable
+    web.
 
 - name: PayPal
   visible: true
@@ -381,7 +397,22 @@
 - name: Willow Tree Apps
   visible: false
   short: willowtree
-  logo:
+  logo: willowtree.png
   url: http://www.willowtreeapps.com
   event:
   description: >
+    Much more than a mobile app development company – WillowTree Apps is a new
+    breed mobile engagement partner focused on creating great software to
+    improve users’ lives. We work with clients such as GE, Johnson & Johnson
+    and the NBA to create the best mobile experience possible.  WillowTree
+    excels at bleeding-edge projects that allow us to push boundaries and
+    challenge ourselves to keep evolving.
+
+
+    How do we do it? We hire the smartest and most passionate people in the
+    industry and give them what they need to keep growing and learning. We have
+    all the perks of other leading development shops, but what makes us unique
+    is a “maker” culture that gives great designers and developers the freedom
+    to produce incredible results.  Say no to meetings, paperwork and middle
+    management, and yes to building great things.
+
