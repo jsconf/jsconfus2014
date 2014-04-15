@@ -137,7 +137,7 @@
     [http://atlassian.com](http://atlassian.com).
 
 - name: Yammer
-  visible: true
+  visible: false
   short: yammer
   logo: yammer.png
   url: https://www.yammer.com
