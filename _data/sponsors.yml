@@ -289,6 +289,20 @@
     communications software by enabling voice, VoIP, and messaging to be easily
     embedded into applications whether existing or built new on Twilio.
 
+- name: Digital Ocean
+  visible: false
+  short: digitalocean
+  logo: digitalocean.png
+  url: http://www.digitalocean.com
+  event: Relax.js
+  description: >
+    DigitalOcean is the world’s fastest growing cloud hosting provider built
+    for developers. Our mission is simple: we’re passionate about making
+    complex infrastructure simple and delighting our customers with a seamless
+    experience that brings them joy. New users can easily deploy a blazing fast
+    cloud server in 55 seconds with an intuitive control panel interface, which
+    can be replicated on a larger scale with the company's straightforward API.
+
 - name: Meteor
   visible: true
   short: meteor
