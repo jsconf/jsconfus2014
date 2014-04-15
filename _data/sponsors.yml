@@ -283,7 +283,7 @@
     embedded into applications whether existing or built new on Twilio.
 
 - name: Digital Ocean
-  visible: false
+  visible: true
   short: digitalocean
   logo: digitalocean.png
   url: http://www.digitalocean.com
@@ -409,7 +409,7 @@
   description: >
 
 - name: Willow Tree Apps
-  visible: false
+  visible: true
   short: willowtree
   logo: willowtree.png
   url: http://www.willowtreeapps.com
