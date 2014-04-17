@@ -357,10 +357,15 @@
 - name: NPM, Inc.
   visible: false
   short: npm
-  logo:
+  logo: npm.png
   url: http://www.npmjs.com
   event: Coffee and Espresso Service
   description: >
+    npm is the package manager that installs JavaScript programs.  npm, Inc.
+    supports the JavaScript community by providing the registry where
+    developers publish and share packaged open-source modules.  We're keeping
+    the registry running, and working on new tools make the JavaScript
+    community even more powerful.
 
 - name: SmartFace
   visible: true
