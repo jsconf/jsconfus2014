@@ -342,10 +342,17 @@
 - name: Shopify
   visible: false
   short: shopify
-  logo:
+  logo: shopify.png
   url: http://www.shopify.com
   event:
   description: >
+    Shopify is a commerce platform that offers a professional online
+    storefront, a payment solution, and the Shopify POS retail application.
+    Shopify currently powers over 90,000 online stores in over 100 different
+    countries. If you like to break things for fun, and you're interested in
+    working in a unique, large-scale environment where security and hacking on
+    open-source software is a major focus, check out the Shopify careers page.
+
 
 - name: NPM, Inc.
   visible: false
