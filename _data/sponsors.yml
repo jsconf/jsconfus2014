@@ -335,18 +335,30 @@
 - name: Shopify
   visible: false
   short: shopify
-  logo:
+  logo: shopify.png
   url: http://www.shopify.com
   event:
   description: >
+    Shopify is a commerce platform that offers a professional online
+    storefront, a payment solution, and the Shopify POS retail application.
+    Shopify currently powers over 90,000 online stores in over 100 different
+    countries. If you like to break things for fun, and you're interested in
+    working in a unique, large-scale environment where security and hacking on
+    open-source software is a major focus, check out the Shopify careers page.
+
 
 - name: NPM, Inc.
   visible: false
   short: npm
-  logo:
+  logo: npm.png
   url: http://www.npmjs.com
   event: Coffee and Espresso Service
   description: >
+    npm is the package manager that installs JavaScript programs.  npm, Inc.
+    supports the JavaScript community by providing the registry where
+    developers publish and share packaged open-source modules.  We're keeping
+    the registry running, and working on new tools make the JavaScript
+    community even more powerful.
 
 - name: SmartFace
   visible: true
