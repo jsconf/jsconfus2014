@@ -329,7 +329,7 @@
     For more information, visit [www.mozilla.com](http://www.mozilla.com)
 
 - name: Shopify
-  visible: false
+  visible: true
   short: shopify
   logo: shopify.png
   url: http://www.shopify.com
@@ -344,7 +344,7 @@
 
 
 - name: NPM, Inc.
-  visible: false
+  visible: true
   short: npm
   logo: npm.png
   url: http://www.npmjs.com
@@ -409,7 +409,7 @@
     manager, and executives alike build the best software possible, every day.
 
 - name: MongoDB
-  visible: false
+  visible: true
   short: mongodb
   logo: mongodb.png
   url: http://www.mongodb.com
