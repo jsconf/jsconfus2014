@@ -422,10 +422,16 @@
 - name: MongoDB
   visible: false
   short: mongodb
-  logo:
+  logo: mongodb.png
   url: http://www.mongodb.com
   event:
   description: >
+    MongoDB makes development simple and beautiful. For tens of thousands of
+    organizations, MongoDB provides agility and the freedom to scale. Fortune
+    500 enterprises, startups, hospitals, governments and organizations of all
+    kinds use MongoDB because it is the best database for modern applications.
+    Through simplicity, MongoDB changes what it means to build. Through
+    openness, MongoDB elevates what it means to work with a software company.
 
 - name: Willow Tree Apps
   visible: false
