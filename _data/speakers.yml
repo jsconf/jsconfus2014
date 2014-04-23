@@ -111,7 +111,7 @@
 
 - firstname: James
   lastname: Long
-  visible: false
+  visible: true
   smurl: http://twitter.com/jlongster
   smtype: twitter
   smhandle: jlongster
@@ -147,7 +147,7 @@
 
 - firstname: David
   lastname: Nolen
-  visible: false
+  visible: true
   smurl: http://twitter.com/swannodette
   smtype: twitter
   smhandle: "swannodette"
@@ -222,7 +222,7 @@
 
 - firstname: Christoph
   lastname: Burgmer
-  visible: false
+  visible: true
   smurl: http://github.com/cburgmer
   smtype: github
   smhandle: cburgmer
@@ -444,7 +444,7 @@
 
 - firstname: Ryan
   lastname: Paul
-  visible: false
+  visible: true
   smurl: http://twitter.com/segphault
   smtype: twitter
   smhandle: "segphault"
@@ -460,7 +460,7 @@
 
 - firstname: Brian J.
   lastname: Brennan
-  visible: false
+  visible: true
   smurl: http://twitter.com/brianloveswords
   smtype: twitter
   smhandle: "brianloveswords"
@@ -477,7 +477,7 @@
 
 - firstname: Bodil
   lastname: Stokke
-  visible: false
+  visible: true
   smurl: http://twitter.com/bodil
   smtype: twitter
   smhandle: "bodil"
@@ -567,7 +567,7 @@
 
 - firstname: Travell
   lastname: Perkins
-  visible: false
+  visible: true
   smurl: https://twitter.com/travellperkins
   smtype: twitter
   smhandle: travellperkins
@@ -602,7 +602,7 @@
 
 - firstname: Neil
   lastname: Green
-  visible: false
+  visible: true
   smurl:
   smtype:
   smhandle:
@@ -619,7 +619,7 @@
     Neil works as a lead developer at IntercontinentalExchange (ICE), a global network of exchanges and clearing houses for financial and commodity markets, which recently acquired the New York Stock Exchange.  He is the UI architect of ICE's social, messaging, and app integration platform, and lead implementer of the platform's core systems.  Neil's true passion lies in coaching engineers on the practical application of software engineering and architectural design principles under the real-world situations common in developing mission-critical enterprise software.
 - firstname: Jenn
   lastname: Schiffer
-  visible: false
+  visible: true
   smurl: https://twitter.com/jennschiffer
   smtype: twitter
   smhandle: "jennschiffer"
@@ -630,3 +630,16 @@
     Jenn Schiffer is a web developer. From the early age of 37 she held the
     amulet of scripts from which the soul of the Node baby cries. The noises
     had awoken the spirits from whic
+- firstname: Angelina
+  lastname: Fabbro
+  visible: true
+  smurl: https://twitter.com/angelinamagnum
+  smtype: twitter
+  smhandle: "angelinamagnum"
+  title: "Improving 2D & 3D Canvas Performance on the Web, One Frame at a Time"
+  body: >
+    New to working with <code>&lt;canvas&gt;</code>? Never fear, we'll give you a light introduction to some of the high-level concepts about working in 3D space and go through some minimal examples before we do a deep dive into grittier details. We'll look at in-browser tools as well as plugins found in multiple browser ecosystems: not just one, because the web is everywhere and your game should be too.
+
+    We'll talk about how to debug and improve the performance of both 2D and 3D canvas contexts, including WebGL code. Though we will be talking largely about games, we'll also look at chart libraries as well and discuss using canvas as compared to SVG. Even if you're only working with a 3rd party library, you need to know how to profile performance and spot jank, as well as what action to take when you find it. You'll learn how to mitigate the overhead of doing a lot of 3D math, as well as how to get good performance on low-end devices.
+  bio: >
+    Angelina Fabbro is a web developer and engineering developer advocate at Mozilla. Full stack development, programmer education, and crafty hacks. Plays well with others. Do not taunt happy fun ball.
