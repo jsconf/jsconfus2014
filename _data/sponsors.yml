@@ -1,33 +1,3 @@
-- name: Hack Reactor
-  visible: true
-  short: hackreactor
-  logo: hackreactor.png
-  url: http://www.hackreactor.com
-  event: Training Track
-  description: >
-    [Hack Reactor](http://www.hackreactor.com) is an advanced immersive program
-    that trains exceptional full-stack software engineers. From start to finish,
-    we're focused on producing candidates with a skillset built for top engineering
-    teams.
-
-    Through a rigorous admissions process, we actively screen for people who
-    possess both excellent technical aptitude and interpersonal skills from
-    diverse backgrounds, ultimately selecting individuals we'd want to hire
-    ourselves. For over 800 hours over 12 weeks, our instruction team teaches a
-    curriculum focused on computer science fundamentals, including data structures,
-    runtime complexity and design patterns; modern front-end and back-end libraries
-    including Angular, D3, Node, Express, and more; and industry-standard tools and
-    practices like debugging, Git, iterative development, and TDD.
-
-    Our engineers build [technically impressive](http://www.wired.com/wiredenterprise/2013/06/43651/)
-    and [headline-grabbing](http://techcrunch.com/2013/07/17/reddit-insight-interview-hack-reactor/)
-    applications, complete paid client work in-program and consistently fill core
-    engineering roles at brand name companies, early-stage startups and agile
-    consultancies. In addition, they contribute regularly to open source projects such
-    as CoffeeScript, Angular and Backbone.  Hack Reactor alumni work in back-end,
-    front-end and full-stack engineering roles at companies like Google, Salesforce /
-    Desk.com, LinkedIn / Slideshare, Groupon, Adobe, OpenTable, Amazon, and a slew
-    of growing startups.
 
 - name: Bloomberg
   visible: true
@@ -134,7 +104,7 @@
   short: exacttarget
   logo: exacttarget.png
   url: http://www.exacttarget.com
-  event: Track B
+  event: Houston and Cape Canaveral Tracks
   description: >
     ExactTarget builds tools that empower organizations of all sizes to
     communicate with their customers through email, mobile, social media, web,
@@ -370,6 +340,39 @@
     expert or just getting started.  To learn more, visit us at
     [www.meteor.com](www.meteor.com) or join us at one of our monthly events in
     cities around the world.
+- name: Hack Reactor
+  visible: true
+  short: hackreactor
+  logo: hackreactor.png
+  url: http://www.hackreactor.com
+  event: Training Track
+  description: >
+    [Hack Reactor](http://www.hackreactor.com) is an advanced immersive program
+    that trains exceptional full-stack software engineers. From start to finish,
+    we're focused on producing candidates with a skillset built for top engineering
+    teams.
+
+
+    Through a rigorous admissions process, we actively screen for people who
+    possess both excellent technical aptitude and interpersonal skills from
+    diverse backgrounds, ultimately selecting individuals we'd want to hire
+    ourselves. For over 800 hours over 12 weeks, our instruction team teaches a
+    curriculum focused on computer science fundamentals, including data structures,
+    runtime complexity and design patterns; modern front-end and back-end libraries
+    including Angular, D3, Node, Express, and more; and industry-standard tools and
+    practices like debugging, Git, iterative development, and TDD.
+
+
+    Our engineers build [technically impressive](http://www.wired.com/wiredenterprise/2013/06/43651/)
+    and [headline-grabbing](http://techcrunch.com/2013/07/17/reddit-insight-interview-hack-reactor/)
+    applications, complete paid client work in-program and consistently fill core
+    engineering roles at brand name companies, early-stage startups and agile
+    consultancies. In addition, they contribute regularly to open source projects such
+    as CoffeeScript, Angular and Backbone.  Hack Reactor alumni work in back-end,
+    front-end and full-stack engineering roles at companies like Google, Salesforce /
+    Desk.com, LinkedIn / Slideshare, Groupon, Adobe, OpenTable, Amazon, and a slew
+    of growing startups.
+
 
 - name: Mozilla
   visible: true
