@@ -158,19 +158,15 @@
   url: http://www.olark.com
   event: Significant Others Track
   description: >
-    Live chat is the only way to talk to customers while they are still on your
-    website. Every day tons of potential customers come your way. But who are
-    they? Do they understand what's on your site? What are they looking for?
+    Olark live chat is the easiest way to boost your sales, help solve issues
+    and understand your customers. You can talk to them instantly while they
+    are still on your site.
 
 
-    Find out with [Olark](http://www.olark.com) &mdash; in 5 minutes you can
-    see exactly who's visiting your site and start chatting with them. Ever
-    wanted to just get some quick feedback? Olark makes it happen.
-
-
-    We love talking shop about Backbone, node, realtime systems, and lighting
-    our 100ft tall redwood tree.  Come and grab a drink with us!
-
+    We are focused on the end-user experience, building a beautiful, functional
+    product your visitors want to use. We love talking shop about Backbone,
+    node, realtime systems, and holiday projects we make with Raspberry Pi.
+    Come grab a drink with us!
 
 - name: Condé Nast
   visible: true
@@ -179,19 +175,38 @@
   url: http://www.condenast.com
   event: Blast Off Arcade
   description: >
-    [Condé Nast](https://www.condenast.com) is home to some of the world's most
-    celebrated media brands. In the United States, Condé Nast publishes 18
-    consumer magazines, four business-to-business publications, 27 websites,
-    and more than 50 apps for mobile and tablet devices, all of which define
-    excellence in their categories. The company also owns Fairchild Fashion
-    Media (FFM), whose portfolio of brands serves as the leading source of news
-    and analysis for the global fashion community. Condé Nast has won more
-    National Magazine Awards over the past ten years than all of its competitors
-    combined.
+    Condé Nast is a premier media company renowned for producing the highest
+    quality content for the world’s most influential audiences.  Attracting 95
+    million consumers across its industry-leading print, digital and video
+    brands, the company’s portfolio includes some of the most iconic titles in
+    media: Vogue, Vanity Fair, Glamour, Brides, Self, GQ, The New Yorker, Condé
+    Nast Traveler, Details, Allure, Architectural Digest, Bon Appétit,
+    Epicurious, Wired, W, Lucky, Golf Digest, Golf World, Teen Vogue and Ars
+    Technica.
 
 
-    Visit CondéNast.com and follow us on Twitter [@CondeNastCorp](http://twitter.com/@CondeNastCorp) and
-    [@CondeNastCareer](http://www.twitter.com/CondeNastCareer)
+    Condé Nast also owns Fairchild Fashion Media (FFM) and its comprehensive
+    fashion journalism brands: WWD, Style.com, Footwear News, NowManifest,
+    Beauty Inc., M and Fairchild Summits.
+
+
+    The company’s newest division, Condé Nast Entertainment, was launched in
+    2011 to develop film, television and premium digital video programming.
+
+
+    Over the past twenty years, Condé Nast has reached record profits, tripling
+    its topline growth and exponentially expanding its content distribution.
+    During the same period, the company earned more editorial, design, digital,
+    advertising, video and business awards than any competitor in the industry.
+    In 2013, the corporation was recognized as one of the fastest-growing
+    companies in the digital video business and as one of LinkedIn’s Top 50
+    Most In-Demand Employers in the World.  In late 2014, the company will
+    relocate to its new global headquarters at 1 World Trade Center, where it
+    will play a leading role in the resurgence of Lower Manhattan.
+
+
+    For more information follow [@CondeNast](https://twitter.com/CondeNast) on
+    Twitter.
 
 - name: Heroku
   visible: true
@@ -220,7 +235,7 @@
   short: saucelabs
   logo: sauce_labs.png
   url: http://www.saucelabs.com
-  event: Pool Entertainment
+  event: Thursday Beach and Pool Entertainment
   description: >
     Sauce’s cloud-based service allows developers to automatically or
     interactively test mobile and web applications on more than 300 browsers
@@ -231,6 +246,18 @@
     and Javascript unit testing in all the popular programming languages,
     frameworks and CI systems. For more information, visit
     [saucelabs.com](http://www.saucelabs.com).
+
+- name: Spark
+  visible: true
+  short: spark
+  logo: spark.png
+  url: https://www.spark.io/
+  event: Things
+  description: >
+    Spark, based in Minneapolis, brings connected products to life. They provide development tools and services to help designers, engineers, entrepreneurs, and OEMs get connected devices up and running, and a cloud platform to manage those products once they're in customers' hands.
+
+
+    Spark's first product, the Spark Core, is a development platform for embedding Wi-Fi into everyday electronics. The Spark Core Kickstarter campaign raised more than a half million dollars, making it one of the most successful products of its kind in Kickstarter history.
 
 - name: Pebble
   visible: true
@@ -333,7 +360,7 @@
     For more information, visit [www.mozilla.com](http://www.mozilla.com)
 
 - name: Shopify
-  visible: false
+  visible: true
   short: shopify
   logo: shopify.png
   url: http://www.shopify.com
@@ -348,7 +375,7 @@
 
 
 - name: NPM, Inc.
-  visible: false
+  visible: true
   short: npm
   logo: npm.png
   url: http://www.npmjs.com
@@ -413,12 +440,18 @@
     manager, and executives alike build the best software possible, every day.
 
 - name: MongoDB
-  visible: false
+  visible: true
   short: mongodb
-  logo:
+  logo: mongodb.png
   url: http://www.mongodb.com
   event:
   description: >
+    MongoDB makes development simple and beautiful. For tens of thousands of
+    organizations, MongoDB provides agility and the freedom to scale. Fortune
+    500 enterprises, startups, hospitals, governments and organizations of all
+    kinds use MongoDB because it is the best database for modern applications.
+    Through simplicity, MongoDB changes what it means to build. Through
+    openness, MongoDB elevates what it means to work with a software company.
 
 - name: Willow Tree Apps
   visible: true
@@ -441,4 +474,3 @@
     is a “maker” culture that gives great designers and developers the freedom
     to produce incredible results.  Say no to meetings, paperwork and middle
     management, and yes to building great things.
-
