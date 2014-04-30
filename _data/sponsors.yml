@@ -324,6 +324,25 @@
     cloud server in 55 seconds with an intuitive control panel interface, which
     can be replicated on a larger scale with the company's straightforward API.
 
+- name: Mandrill
+  visible: false
+  short: mandrill
+  logo: mandrill.png
+  url: http://mandrill.com/
+  event: Evening Campfires
+  description: >
+    Mandrill is a scalable and affordable email infrastructure service, with
+    all the marketing-friendly analytics tools you’ve come to expect from
+    MailChimp. Apps can use Mandrill to send automated transactional email,
+    like password reminders, shopping-cart receipts, and personalized
+    notifications. Mandrill offers advanced tracking, easy-to-understand
+    reports, and hundreds of template options that shouldn’t be limited to bulk
+    email newsletters. And it’s built on MailChimp’s proven email platform,
+    which sends more than nine billion emails a month. Developers love the
+    quick setup, webhooks support, and high delivery rates. Marketers love the
+    beautiful interface, template options, tagging, and custom reports. And
+    both love that you can send 12,000 emails per month absolutely free.
+
 - name: Meteor
   visible: true
   short: meteor
