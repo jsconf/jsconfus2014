@@ -134,7 +134,15 @@ h1 { margin-bottom: 1.5em;}
 
 }
 
+@media (max-width: 768px) {
+  #logo img {
+      height: 100px;
+  }
+  .stars, .twinkling, .clouds, #logo, #header { height: 150px; line-height:150px;}
 
+  .navbar-collapse { max-height: 420px;}
+
+}
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 0px;
