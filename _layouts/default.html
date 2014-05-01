@@ -57,10 +57,19 @@
       </div>
     </div>
   </div>
-    <div class="navbar navbar-inverse" role="navigation">
+  <div class="navbar navbar-inverse" role="navigation">
 
   <div class='container'>
-  <div class='row'>
+  <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+
           <ul class="nav center navbar-nav">
             <li id='Home'><a href="/" title='Return Home'><i class='fa fa-home'></i> Home Base</a></li>
             <li id='Menu'><a href="/tickets.html" title="Launch Passes"><i class='fa fa-ticket'></i> Tickets</a></li>
@@ -73,7 +82,10 @@
             <li id='aboutMenu'><a href="/about.html"><i class='fa fa-heart'></i> About</a></li>
           </ul>
 
-          </div></div></div></div>
+          </nav>
+          </div>
+          </div>
+
     {{content}}
 
     <div class="container">
