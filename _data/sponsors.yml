@@ -325,7 +325,7 @@
     can be replicated on a larger scale with the company's straightforward API.
 
 - name: Mandrill
-  visible: false
+  visible: true
   short: mandrill
   logo: mandrill.png
   url: http://mandrill.com/
