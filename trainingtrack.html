@@ -1,0 +1,34 @@
+---
+layout: default
+title: "JSConf US 2014 Speakers"
+id: speakers
+---
+<div class='container'>
+<h2><img src='/img/sponsors/hackreactor.png'/>Huntsville Training Track</h2>
+<br/>
+<br/>
+<br/>
+    <div class='col-md-12 speaker clearfix'>
+        <h3> We'll cover the fundamentals of practical JavaScript usage in a browser, with a focus on language features that tend to confuse people most in their first year or so of front-end work with some advanced crash courses sprinkled in between. The sessions are hands-on, drawing on the accelerated curriculum we use for rapid on-boarding at <a href='http://www.hackreactor.com'>Hack Reactor</a>, an advanced immersive program that trains exceptional full-stack software engineers.</h3>
+    </div>
+{% for session in site.data.training %}
+    <div class='col-md-12'>
+<div class='speaker clearfix' id='{{session.id}}'>
+    <div class='pull-right socialmedia'>
+        {{session.start}}
+  </div>
+  <div class='name'>
+    <h3>{{session.title}}</h3>
+  </div>
+  <div class='talk'>
+    <div class='title'>Level: {{session.level}}</div>
+  </div>
+  <div class='bio'>
+<!--    <div class='title'>Description</div>-->
+    {{session.desc | markdownify}}
+  </div>
+</div>
+</div>
+{% endfor %}
+    
+</div>
