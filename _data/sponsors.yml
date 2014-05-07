@@ -137,20 +137,6 @@
     smarter and deliver quality results on time. Learn more at
     [http://atlassian.com](http://atlassian.com).
 
-- name: Yammer
-  visible: false
-  short: yammer
-  logo: yammer.png
-  url: https://www.yammer.com
-  event: unknown
-  description: >
-    [Yammer](http://www.yammer.com) is a secure, private social network for
-    your company. Yammer empowers employees to be more productive and successful
-    by enabling them to collaborate easily, make smarter decisions faster, and
-    self-organize into teams to take on any business challenge. It is a new way
-    of working that naturally drives business alignment and agility, reduces
-    cycle times, engages employees and improves relationships with customers
-    and partners.
 
 - name: Olark
   visible: true
@@ -529,7 +515,7 @@
     management, and yes to building great things.
 
 - name: Parrot
-  visible: false
+  visible: true
   short: parrot
   logo: parrot.png
   url: http://www.parrot.com/usa/
@@ -539,7 +525,7 @@
     tablets as well as high technology solutions in Automotive and UAV business.
 
 - name: Box.com
-  visible: false
+  visible: true
   short: box
   logo: box.png
   url: http://www.box.com
