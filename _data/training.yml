@@ -1,0 +1,101 @@
+- title: JS Fundamentals&#58; Arrays, Objects and Functions
+  id: jsfun
+  length: 1.5hrs
+  start: 9:30am, Wednesday
+  level: Beginner
+  desc: >
+    We'll cover the fundamentals of JavaScript, with a focus on the language features and
+    questions everyone has in their first year of working in JavaScript, such as:
+    "What does it mean for a function to have properties?"
+    "How do I use the arguments object?"
+    "Why can't I use a for loop to iterate over an array?"
+    "Can variables be used as references to other variables?"
+
+
+- title: Scopes and Closures demystified with pictures
+  id: scope
+  length: 1.5hrs
+  start: 11:30am, Wednesday
+  level: Beginner
+  desc: >
+    Learn the details of how JavaScript scopes behave, and how to use the powerful tool of
+    closures. Closures are everywhere in JS code, so understanding how to read them will
+    dramatically improve your ability to read and debug any application.
+
+- title: Crash Course&#58; Node.js
+  id: node
+  start: 3:00pm, Wednesday
+  length: 30min
+  level: Advanced
+  desc: >
+    We'll cover the basics on how to get started with Node.js, how to use the Node.js repl to
+    run JavaScript files and spin up your first Node.js server using Express.js! This is an
+    intermediate session for developers familiar with JavaScript syntax, interfacing with
+    asynchronous systems, and at least minor use of the command line.
+
+- title: WTF is ‘this’?
+  id: this
+  start: 4:00pm, Wednesday
+  length: 50min
+  level: Beginner
+  desc: >
+    It's not you, it's JavaScript. The keyword 'this' trips everybody up at first, and
+    continues to do so long after it rightly should. We'll cover the 4 simple rules that can
+    lead you out of nearly any confusing situation. By the end, you'll be equipped to
+    confidently say what 'this' refers to at any point in your runtime.
+
+- title: Prototype Chains
+  id: chains
+  start: 5:00pm, Wednesday
+  length: 30min
+  level: Intermediate
+  desc: >
+    JavaScript offers a simple feature called "prototype chains" to support various forms of
+    code sharing. Before diving into the deep end of pseudoclassical instantiation and
+    subclassing, you'll want to thoroughly know all the gotchas of this little feature they're
+    built upon.
+
+- title: Asynchronous Execution and Event Systems
+  id: async
+  start: 9:30am, Friday
+  length: 1.5hrs
+  level: Intermediate
+  desc: >
+    The majority of JavaScript applications rely on the language's asynchronous features.
+    Understanding how your interpreter's internal event loop behaves will help you in your use
+    of event systems and in debugging difficult race conditions. We'll explore how you can use
+    the event systems found in every JS interpreter, every browser, many libraries like jQuery,
+    and practically every MVC framework.
+
+- title: Code Sharing Techniques
+  id: code
+  start: 11:30am, Friday
+  length: 1.5hrs
+  level: Beginner
+  desc: >
+    We'll explore the patterns that you see every day in JavaScript code bases, and teach you
+    to use the features you've learned to clean up and DRY out your code, including methods,
+    mixins, and classes.
+
+- title: Crash Course&#58; Backbone.js
+  id: backbone
+  start: 3:00pm, Friday
+  length: 30min
+  level: Advanced
+  desc: >
+    Learn the fundamentals to get started with Backbone.js. Models, Collections and Views are
+    covered as well as next steps to continue mastering this MV* Framework. This is an advanced
+    class for developers familiar with JavaScript classes, jQuery, and use of 3rd party
+    libraries.
+
+- title: Secrets and Lies about JavaScript Classes
+  id: classes
+  start: 4:00pm, Friday
+  length: 1.5hrs
+  level: Intermediate
+  desc: >
+    Most of the documentation to be found on the internet describing JavaScript classes,
+    prototype chains, and the keyword ‘new’ is confusing or even misleading. However, there is
+    a small set of foundational rules that can clarify almost any use case. We’ll examine the
+    nuances that trip most people up, and give you a full working understanding of how to read
+    and write various different flavors of JavaScript classes.
