@@ -527,3 +527,13 @@
     is a “maker” culture that gives great designers and developers the freedom
     to produce incredible results.  Say no to meetings, paperwork and middle
     management, and yes to building great things.
+
+- name: Parrot
+  visible: false
+  short: parrot
+  logo: parrot.png
+  url: http://www.parrot.com/usa/
+  event: Parrot AR Drones
+  description: >
+    Parrot designs, develops and markets consumer products for smartphones and
+    tablets as well as high technology solutions in Automotive and UAV business.
