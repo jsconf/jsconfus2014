@@ -1,3 +1,14 @@
+- firstname: Marcus
+  lastname: Phillips
+  visible: true
+  smurl: http://twitter.com/mracus
+  smtype: twitter
+  smhandle: mracus
+  title: JSConf Training Track
+  body: >
+    Hack Reactor is running the training track on Wednesday and Friday this year. It aims to get newbies and professionals alike up to speed with a diverse range of JavaScript topics from Node.js to the language fundamentals.
+  bio: >
+    Marcus is the CTO/Head of Instruction at Hack Reactor. Formerly at Twitter, Marcus led several technical training initiatives and worked on the company's JavaScript framework internals. Marcus directs the Hack Reactor curriculum and the software that supports it.
 
 - firstname: Kassandra
   lastname: Perch
