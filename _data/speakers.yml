@@ -1,14 +1,3 @@
-- firstname: Marcus
-  lastname: Phillips
-  visible: true
-  smurl: http://twitter.com/mracus
-  smtype: twitter
-  smhandle: mracus
-  title: JSConf Training Track
-  body: >
-    Hack Reactor is running the training track on Wednesday and Friday this year. It aims to get newbies and professionals alike up to speed with a diverse range of JavaScript topics from Node.js to the language fundamentals.
-  bio: >
-    Marcus is the CTO/Head of Instruction at Hack Reactor. Formerly at Twitter, Marcus led several technical training initiatives and worked on the company's JavaScript framework internals. Marcus directs the Hack Reactor curriculum and the software that supports it.
 
 - firstname: Kassandra
   lastname: Perch
@@ -652,3 +641,15 @@
     We'll talk about how to debug and improve the performance of both 2D and 3D canvas contexts, including WebGL code. Though we will be talking largely about games, we'll also look at chart libraries as well and discuss using canvas as compared to SVG. Even if you're only working with a 3rd party library, you need to know how to profile performance and spot jank, as well as what action to take when you find it. You'll learn how to mitigate the overhead of doing a lot of 3D math, as well as how to get good performance on low-end devices.
   bio: >
     Angelina Fabbro is a web developer and engineering developer advocate at Mozilla. Full stack development, programmer education, and crafty hacks. Plays well with others. Do not taunt happy fun ball.
+
+- firstname: Marcus
+  lastname: Phillips
+  visible: true
+  smurl: http://twitter.com/mracus
+  smtype: twitter
+  smhandle: mracus
+  title: JSConf Training Track
+  body: >
+    Hack Reactor is running the training track on Wednesday and Friday this year. It aims to get newbies and professionals alike up to speed with a diverse range of JavaScript topics from Node.js to the language fundamentals.
+  bio: >
+    Marcus is the CTO/Head of Instruction at Hack Reactor. Formerly at Twitter, Marcus led several technical training initiatives and worked on the company's JavaScript framework internals. Marcus directs the Hack Reactor curriculum and the software that supports it.
