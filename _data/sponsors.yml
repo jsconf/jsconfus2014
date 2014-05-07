@@ -537,3 +537,20 @@
   description: >
     Parrot designs, develops and markets consumer products for smartphones and
     tablets as well as high technology solutions in Automotive and UAV business.
+
+- name: Box.com
+  visible: false
+  short: box
+  logo: box.png
+  url: http://www.box.com
+  event:
+  description: >
+    Box provides a secure way to share content and improve collaboration on any
+    device. Desktop, tablet or mobile. From huge corporations to mom and pop
+    stores, Box believes technology should never limit anything you do.
+    Businesses of any size can be more productive, inventive and powerful on
+    Box. The company is well funded by top VC firms like Andreessen Horowitz,
+    Draper Fisher Jurvetson and U.S. Venture Partners. Box is proud to be on
+    Forbes’ list of America’s Most Promising Companies, is used in 225,000
+    businesses - including 99% of the Fortune 500 – and is the go-to product of
+    25 million people.
