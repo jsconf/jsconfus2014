@@ -218,3 +218,6 @@ box-shadow:         4px 4px 25px 0px rgba(50, 50, 50, 0.54);
 
     font-size: 125%;
 }
+
+
+#trackb .speaker .name, #trackb .speaker .talk, #trackb .speaker .bio{ margin-left: 0px;}
