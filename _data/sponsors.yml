@@ -540,3 +540,16 @@
     Forbes’ list of America’s Most Promising Companies, is used in 225,000
     businesses - including 99% of the Fortune 500 – and is the go-to product of
     25 million people.
+
+- name: The Hybrid Group
+  visible: false
+  short: hybridgroup
+  logo: hybridgroup.png
+  url: http://hybridgroup.com/
+  event: Pop-up Makerspace
+  description: >
+    At The Hybrid Group, we are passionate about making useful things with
+    technology. Based in Los Angeles, California, our software developers &
+    designers specialize in JavaScript, Go, Ruby, Cloud Computing, Web-Enabled
+    Devices, Application Design, and most importantly, helping you solve
+    problems. Find out more at [hybridgroup.com](http://hybridgroup.com/)
