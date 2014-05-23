@@ -350,6 +350,18 @@
     pony, and you can find him as [@nzgb](http://twitter.com/nzgb) on Twitter,
     because xkcd.
 
+- firstname: Jordan
+  lastname: Matthiesen
+  visible: true
+  smurl: http://twitter.com/JMatthiesen
+  smtype: twitter
+  smhandle: "JMatthiesen"
+  title: Modern mobile app tool-chains
+  body: >
+    There are many tools you can use to create mobile apps with JavaScript; tools like Apache Cordova, Ripple, the Cordova CLI, emulators, and a myriad of JavaScript libraries. In the Visual Studio team, we set out to make app building using Cordova a little easier, curating a set of these tools for developers using a single development environment. In this session, I'll walk you through the tool-chain and show you how we tied them all together using JavaScript and open source. You may discover a few new tools along the way and you’ll get some insight into how we combined pre-existing tools with unique capabilities.
+  bio: >
+    A web developer turned Program Manager on the Microsoft HTML 5/JavaScript tools team working on JavaScript editing and multi-device client development tools
+
 - firstname: Ryan
   lastname: Florence
   visible: true
