@@ -99,6 +99,24 @@
     real-time, and interconnected services for the 1.2 billion people who visit
     Facebook every month.
 
+- name: New Relic
+  visible: true
+  short: newrelic
+  logo: newrelic.png
+  url: http://www.newrelic.com
+  event: Houston Track
+  description: >
+    New Relic is a software analytics company that makes sense of billions of
+    metrics about millions of applications in real time. Our comprehensive
+    SaaS-based solution provides one powerful interface for web and native
+    mobile applications and consolidates the performance monitoring data for
+    any chosen technology in your environment. Our 90,000 customers use our
+    cloud solution every day to optimize more than 200 billion metrics for 3
+    million applications. When your brand and customer experience depend on the
+    performance of modern software, New Relic provides insight into your
+    overall environment. Learn more at [newrelic.com](http://www.newrelic.com).
+
+
 - name: Exact Target
   visible: true
   short: exacttarget
@@ -194,6 +212,19 @@
 
     For more information follow [@CondeNast](https://twitter.com/CondeNast) on
     Twitter.
+
+- name: The Hybrid Group
+  visible: true
+  short: hybridgroup
+  logo: hybridgroup.png
+  url: http://hybridgroup.com/
+  event: Pop-up Makerspace
+  description: >
+    At The Hybrid Group, we are passionate about making useful things with
+    technology. Based in Los Angeles, California, our software developers &
+    designers specialize in JavaScript, Go, Ruby, Cloud Computing, Web-Enabled
+    Devices, Application Design, and most importantly, helping you solve
+    problems. Find out more at [hybridgroup.com](http://hybridgroup.com/)
 
 - name: Heroku
   visible: true
@@ -540,35 +571,4 @@
     Forbes’ list of America’s Most Promising Companies, is used in 225,000
     businesses - including 99% of the Fortune 500 – and is the go-to product of
     25 million people.
-
-
-- name: The Hybrid Group
-  visible: true
-  short: hybridgroup
-  logo: hybridgroup.png
-  url: http://hybridgroup.com/
-  event: Pop-up Makerspace
-  description: >
-    At The Hybrid Group, we are passionate about making useful things with
-    technology. Based in Los Angeles, California, our software developers &
-    designers specialize in JavaScript, Go, Ruby, Cloud Computing, Web-Enabled
-    Devices, Application Design, and most importantly, helping you solve
-    problems. Find out more at [hybridgroup.com](http://hybridgroup.com/)
-
-- name: New Relic
-  visible: true
-  short: newrelic
-  logo: newrelic.png
-  url: http://www.newrelic.com
-  event: Houston Track
-  description: >
-    New Relic is a software analytics company that makes sense of billions of
-    metrics about millions of applications in real time. Our comprehensive
-    SaaS-based solution provides one powerful interface for web and native
-    mobile applications and consolidates the performance monitoring data for
-    any chosen technology in your environment. Our 90,000 customers use our
-    cloud solution every day to optimize more than 200 billion metrics for 3
-    million applications. When your brand and customer experience depend on the
-    performance of modern software, New Relic provides insight into your
-    overall environment. Learn more at [newrelic.com](http://www.newrelic.com).
 
