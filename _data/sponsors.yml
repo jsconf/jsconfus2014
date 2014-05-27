@@ -76,7 +76,7 @@
   url: http://www.nodesource.com
   event: Golf Tournament
   description: >
-    NodeSource is a professional Node.js software company. NodeSource provides enterprise-grade software products and educational and professional consulting services to empower companies to be effective and productive with Node.js.
+    [NodeSource](http://www.nodesource.com) is a professional Node.js software company. NodeSource provides enterprise-grade software products and educational and professional consulting services to empower companies to be effective and productive with Node.js.
 
 - name: Esri
   visible: true
