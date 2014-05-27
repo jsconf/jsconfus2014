@@ -613,9 +613,9 @@
 - firstname: Neil
   lastname: Green
   visible: true
-  smurl:
-  smtype:
-  smhandle:
+  smurl: https://twitter.com/neilfeyn
+  smtype: twitter
+  smhandle: neilfeyn
   title: Writing Custom DSLs
   body: >
     When writing complex business logic, it is critically important to maintain clean code though the judicious applications of Test Driven Development and Domain Driven Design.  However, even these powerful techniques fall short of solving the problem at the heart of building complex software: building what the customer actually wants.
