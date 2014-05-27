@@ -69,6 +69,15 @@
     PayPal is proud to be part of the javascript community and creating
     experiences that our customers and developers love.
 
+- name: NodeSource
+  visible: true
+  short: nodesource
+  logo: nodesource.png
+  url: http://www.nodesource.com
+  event: Golf Tournament
+  description: >
+    NodeSource is a professional Node.js software company. NodeSource provides enterprise-grade software products and educational and professional consulting services to empower companies to be effective and productive with Node.js.
+
 - name: Esri
   visible: true
   short: esri
@@ -133,13 +142,6 @@
     The ExactTarget Marketing Cloud is a [salesforce.com](http://www.salesforce.com)
     company, for more information visit [exacttarget.com](http://www.exacttarget.com)
 
-- name: NodeSource
-  visible: false
-  short: nodesource
-  logo:
-  url: http://www.nodesource.com
-  event: Golf Tournament
-  description: >
 
 - name: Atlassian
   visible: true
